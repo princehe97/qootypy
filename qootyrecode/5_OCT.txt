@@ -1,0 +1,202 @@
+import random
+import pygame
+pygame.init()
+
+ScreenHeight = 400
+ScreenWidth = 640
+
+win = pygame.display.set_mode((ScreenWidth, ScreenHeight))
+
+pygame.display.set_caption("PyQooty")
+
+start_bg = pygame.image.load('start.png')
+game_bg = pygame.image.load('gamescreen.png')
+
+myfont_main = pygame.font.SysFont("Verdana", 20)
+myfont_game = pygame.font.SysFont("Verdana", 28)
+
+clock = pygame.time.Clock()
+
+Bluey_Green = (0, 200, 200)
+Light_Green = (100, 255, 100)
+Green = (0, 255, 0)
+White = (255, 255, 255)
+
+def main_menu():
+	win.blit(start_bg, (0,0))
+	mouse
+	#print(mouse)
+	#coordinates1 = (90, 275, 110, 25)
+	#coordinates2 = (90, 300, 140, 25)
+	#coordinates3 = (90, 325, 110, 25)
+	#coordinates4 = (90, 350, 130, 25)
+
+	if 90 + 110 > mouse[0] > 90 and 275 + 25 > mouse[1] > 275:
+		menu_text1 = myfont_main.render('Play Footy', 1, Light_Green)
+		if click[0] == 1:
+			global main
+			global playing_match
+			main = False
+			playing_match = True
+			pygame.time.delay(200)
+	else:
+		menu_text1 = myfont_main.render('Play Footy', 1, Bluey_Green)
+	if 90 + 140 > mouse[0] > 90 and 300 + 25 > mouse[1] > 300:
+		menu_text2 = myfont_main.render('Setup League', 1, Light_Green)
+	else:
+		menu_text2 = myfont_main.render('Setup League', 1, Bluey_Green)
+	if 90 + 110 > mouse[0] > 90 and 325 + 25 > mouse[1] > 325:
+		menu_text3 = myfont_main.render('Stats Type', 1, Light_Green)
+	else:
+		menu_text3 = myfont_main.render('Stats Type', 1, Bluey_Green)
+	if 90 + 130 > mouse[0] > 90 and 350 + 25 > mouse[1] > 350:
+		menu_text4 = myfont_main.render('View Results', 1, Light_Green)
+	else:	
+		menu_text4 = myfont_main.render('View Results', 1, Bluey_Green)
+
+	win.blit(menu_text1, (90, 275))
+	win.blit(menu_text2, (90, 300))
+	win.blit(menu_text3, (90, 325))
+	win.blit(menu_text4, (90, 350))
+	pygame.display.update()
+
+class sim_game(object):
+	game_minutes = 0
+	game_seconds = 0
+	QTR = 1
+	speed = 8
+	homeTeam = "Home Sample"
+	homeTeamShort = "HOM"
+	home_goals = 0
+	home_behinds = 0
+	home_score = 0
+	awayTeam = "Away Sample"
+	awayTeamShort = "AWY"
+	away_goals = 0
+	away_behinds = 0
+	away_score = 0
+	play_posLine = 0
+	play_posCol = 0
+
+	def GamePlayTime():
+		if sim_game.QTR <= 4 and sim_game.game_minutes <= 25:
+			global match_status
+			match_status = "In Progress"
+			sim_game.game_seconds += sim_game.speed
+			pygame.time.delay(100)
+		else:
+			match_status = "Finished"
+		if sim_game.game_seconds >= 60:
+			sim_game.game_minutes += 1
+			sim_game.game_seconds -= 60
+		if sim_game.game_minutes >= 25:
+			sim_game.QTR += 1
+			sim_game.game_minutes = 0
+			sim_game.game_seconds = 0
+			sim_game.play_posLine = 0
+			sim_game.play_posCol = 0
+	
+	def GamePlayBallPos():	
+		possessionRoll = random.randint(0,1)
+		if possessionRoll == 0:
+			possession = "Home"
+		elif possessionRoll == 1:
+			possession = "Away"
+		
+		if possession == "Home":
+			movementRoll = random.randint(0,1)
+			if movementRoll == 0:
+				sim_game.play_posLine += 0
+			elif movementRoll == 1:
+				sim_game.play_posLine += 1
+		elif possession == "Away":
+			movementRoll = random.randint(0,1)
+			if movementRoll == 0:
+				sim_game.play_posLine -= 0
+			elif movementRoll == 1:
+				sim_game.play_posLine -= 1
+		
+		if sim_game.play_posLine == 3:
+			shotRollHome = random.randint(0,1)
+			if shotRollHome == 0:
+				sim_game.home_behinds += 1
+				sim_game.play_posLine = 2
+			elif shotRollHome == 1:
+				sim_game.home_goals += 1
+				sim_game.play_posLine = 0
+				sim_game.play_posCol = 0
+		if sim_game.play_posLine == -3:
+			shotRollAway = random.randint(0,1)
+			if shotRollAway == 0:
+				sim_game.away_behinds += 1
+				sim_game.play_posLine = -2
+			elif shotRollAway == 1:
+				sim_game.away_goals += 1
+				sim_game.play_posLine = 0
+				sim_game.play_posCol = 0
+
+		sim_game.home_score = sim_game.home_goals * 6 + sim_game.home_behinds
+		sim_game.away_score = sim_game.away_goals * 6 + sim_game.away_behinds
+	
+	def match_sim_running():
+		sim_running = True
+		while sim_running:
+			win.blit(game_bg, (0,0))
+			QTR_display = myfont_game.render(str(sim_game.QTR), 1, Green)
+			win.blit(QTR_display, (100, 15))
+			if sim_game.game_seconds < 10:
+				GameTime_display = myfont_game.render(str(sim_game.game_minutes) + ":0" + str(sim_game.game_seconds), 1, Green)
+			else:
+				GameTime_display = myfont_game.render(str(sim_game.game_minutes) + ":" + str(sim_game.game_seconds), 1, Green)
+			win.blit(GameTime_display, (240, 15))
+			
+			homeTeam_display = myfont_game.render(sim_game.homeTeamShort, 1, White)
+			win.blit(homeTeam_display, (110, 70))
+			
+			homeGoals_display = myfont_game.render(str(sim_game.home_goals), 1, White)
+			homeBehinds_display = myfont_game.render(str(sim_game.home_behinds), 1, White)
+			homeScore_display = myfont_game.render(str(sim_game.home_score), 1, White)
+			win.blit(homeGoals_display, (35, 160))
+			win.blit(homeBehinds_display, (135, 160))
+			win.blit(homeScore_display, (235, 160))
+			
+			awayTeam_display = myfont_game.render(sim_game.awayTeamShort, 1, White)
+			win.blit(awayTeam_display, (110, 220))
+			
+			awayGoals_display = myfont_game.render(str(sim_game.away_goals), 1, White)
+			awayBehinds_display = myfont_game.render(str(sim_game.away_behinds), 1, White)
+			awayScore_display = myfont_game.render(str(sim_game.away_score), 1, White)
+			win.blit(awayGoals_display, (35, 310))
+			win.blit(awayBehinds_display, (135, 310))
+			win.blit(awayScore_display, (235, 310))
+			
+			sim_game.GamePlayTime()
+			if match_status == "In Progress":
+				sim_game.GamePlayBallPos()
+			
+			pygame.display.update()
+			for event in pygame.event.get():
+				if event.type == pygame.QUIT:
+					pygame.quit()
+
+run = True
+main = True
+playing_match = False
+while run:
+	pygame.event.get()
+	
+	clock.tick(12)
+	
+	mouse = pygame.mouse.get_pos()
+	click = pygame.mouse.get_pressed()
+	
+	if main:
+		main_menu()
+	
+	if playing_match:
+		sim_game.match_sim_running()
+	
+	for event in pygame.event.get():
+		if event.type == pygame.QUIT:
+			run = False
+pygame.quit()

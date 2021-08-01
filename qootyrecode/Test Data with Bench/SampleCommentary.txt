@@ -1,0 +1,1637 @@
+{1}[a_C] 0:00: U2tigers gets the hit out
+{1}[h_C] 0:04: GreyCrow wins the ball in tight
+{1}[a_C] 0:08: U2tigers wins a free kick and the ball back
+{1}[a_CHF] 0:12: Elton Johns Wig kicks the ball
+{1}[a_CHF] 0:15: GREENESHOOTS takes a strong mark
+{1}[a_FF] 0:22: GREENESHOOTS passes by hand
+{1}[h_FB] 0:26: Bastyy wins the ball in tight
+{1}[Contest] 0:33: Disposal is smothered and the ball spills free
+{1}[a_FF] 0:37: Blacky wins the ball in tight
+{1}[Contest] 0:40: Disposal is smothered and the ball spills free
+{1}[h_FB] 0:44: Tigerturbulance wins the ball in tight
+{1}[h_FB] 0:47: Blacky has found some space to work with
+{1}[h_CHB] 0:51: Blacky passes by hand
+{1}[h_CHB] 0:54: boncer34 wins the ball in tight
+{1}[a_CHF] 1:01: GREENESHOOTS lays a hard tackle
+{1}[Contest] 1:05: Disposal is smothered and the ball spills free
+{1}[a_CHF] 1:08: Mister M wins the ball in tight
+{1}[a_CHF] 1:11: GREENESHOOTS has found some space to work with
+{1}[a_FF] 1:15: GREENESHOOTS has found some space to work with
+--------------------
+GCR: 0.0.0
+FUR: 1.0.6
+--------------------
+{1}[a_FF] 1:18: Bastyy has found some space to work with
+{1}[a_C] 1:25: Bastyy has found some space to work with
+{1}[h_C] 1:28: GreyCrow gets the hit out
+{1}[h_C] 1:35: nahnah wins the ball in tight
+{1}[a_C] 1:39: Elton Johns Wig dispossesses his opponent
+{1}[Contest] 1:43: Disposal is smothered and the ball spills free
+{1}[h_C] 1:46: Disposal is smothered and the ball spills free
+{1}[h_rW] 1:49: nahnah passes by hand
+{1}[a_lW] 1:53: krakouers85 wins the ball in tight
+--------------------
+GCR: 0.0.0
+FUR: 1.1.7
+--------------------
+{1}[a_lW] 2:00: Sterge has found some space to work with
+{1}[a_FF] 2:04: Sterge has found some space to work with
+{1}[h_CHB] 2:07: Blacky passes by hand
+{1}[a_CHF] 2:14: GREENESHOOTS wins the ball in tight
+{1}[a_CHF] 2:21: U2tigers dispossesses his opponent
+{1}[a_CHF] 2:25: GREENESHOOTS has found some space to work with
+{1}[h_CHB] 2:28: spookism kicks the ball
+{1}[a_CHF] 2:31: boncer34 wins the ball in tight
+{1}[a_CHF] 2:38: GREENESHOOTS has found some space to work with
+{1}[a_rHFF] 2:42: GREENESHOOTS passes by hand
+{1}[h_lHBF] 2:45: Brunswick Trap King wins the ball in tight
+{1}[h_lHBF] 2:52: MrPremiership has found some space to work with
+{1}[h_lW] 2:56: MrPremiership has found some space to work with
+--------------------
+GCR: 0.1.1
+FUR: 1.1.7
+--------------------
+{1}[h_lW] 2:59: Fitzey has found some space to work with
+{1}[h_FF] 3:06: Fitzey has found some space to work with
+{1}[a_CHB] 3:09: U2tigers takes a run and bounce
+{1}[h_CHF] 3:16: U2tigers dispossesses his opponent
+{1}[a_CHB] 3:23: U2tigers wins a free kick and the ball back
+{1}[a_C] 3:26: tigland kicks the ball
+{1}[h_C] 3:29: Elton Johns Wig wins the ball in tight
+{1}[h_C] 3:36: nahnah has found some space to work with
+{1}[h_CHF] 3:40: nahnah takes a run and bounce
+{1}[h_CHF] 3:43: nahnah wins the ball in tight
+{1}[a_CHB] 3:50: tigland dispossesses his opponent
+{1}[a_CHB] 3:54: tigland has found some space to work with
+{1}[a_C] 3:57: tigland passes by hand
+{1}[a_C] 4:00: Elton Johns Wig wins the ball in tight
+{1}[h_C] 4:07: nahnah lays a hard tackle
+{1}[a_C] 4:11: Elton Johns Wig dispossesses his opponent
+{1}[a_C] 4:14: Elton Johns Wig has found some space to work with
+{1}[Contest] 4:17: Elton Johns Wig has found some space to work with
+{1}[a_rFP] 4:20: Elton Johns Wig has found some space to work with
+{1}[h_lHBF] 4:27: Marlowe kicks the ball
+{1}[a_rHFF] 4:31: spookism wins the ball in tight
+{1}[h_lHBF] 4:38: Tigerturbulance dispossesses his opponent
+{1}[Contest] 4:42: Disposal is smothered and the ball spills free
+{1}[a_rHFF] 4:45: U2tigers wins the ball in tight
+{1}[a_rHFF] 4:48: Brunswick Trap King has found some space to work with
+{1}[a_rHFF] 4:52: Brunswick Trap King has found some space to work with
+{1}[a_rHFF] 4:55: U2tigers has found some space to work with
+{1}[a_rFP] 5:02: Brunswick Trap King takes a run and bounce
+{1}[Contest] 5:05: Disposal is smothered and the ball spills free
+{1}[h_lBP] 5:12: Lynchy04 wins the ball in tight
+{1}[h_lBP] 5:15: PMBangers has found some space to work with
+{1}[h_lHBF] 5:19: spookism kicks the ball
+{1}[h_lHBF] 5:22: MrPremiership wins the ball in tight
+{1}[a_rHFF] 5:29: Brunswick Trap King lays a hard tackle
+{1}[a_rHFF] 5:33: U2tigers dispossesses his opponent
+{1}[a_rHFF] 5:36: Brunswick Trap King has found some space to work with
+{1}[a_rFP] 5:39: Brunswick Trap King passes by hand
+{1}[a_rFP] 5:42: Lynchy04 wins the ball in tight
+{1}[Contest] 5:49: Disposal is smothered and the ball spills free
+{1}[h_lBP] 5:53: Lynchy04 wins the ball in tight
+{1}[a_rFP] 5:56: Lynchy04 lays a hard tackle
+{1}[a_rFP] 6:00: Lynchy04 has found some space to work with
+{1}[a_FF] 6:03: Tigerturbulance kicks the ball
+--------------------
+GCR: 0.1.1
+FUR: 1.2.8
+--------------------
+{1}[h_FB] 6:06: Bastyy takes a strong mark
+{1}[a_FF] 6:13: Bastyy takes a strong mark
+{1}[h_C] 6:17: Bastyy takes a strong mark
+{1}[h_C] 6:24: Bastyy takes a strong mark
+{1}[h_CHF] 6:31: nahnah passes by hand
+{1}[h_CHF] 6:34: CakeEater wins the ball in tight
+{1}[h_CHF] 6:41: CakeEater has found some space to work with
+{1}[h_FF] 6:45: CakeEater takes a run and bounce
+{1}[a_FB] 6:48: tigland dispossesses his opponent
+{1}[h_FF] 6:55: The Filth Wizard dispossesses his opponent
+{1}[h_FF] 6:58: The Filth Wizard has found some space to work with
+{1}[a_C] 7:01: The Filth Wizard has found some space to work with
+{1}[a_C] 7:04: The Filth Wizard has found some space to work with
+{1}[a_CHF] 7:11: Elton Johns Wig passes by hand
+{1}[a_CHF] 7:14: Elton Johns Wig passes by hand
+{1}[a_FF] 7:21: GREENESHOOTS takes a run and bounce
+{1}[h_FB] 7:25: GREENESHOOTS wins the ball in tight
+{1}[h_FB] 7:32: Blacky has found some space to work with
+{1}[h_CHB] 7:36: Blacky kicks the ball
+{1}[a_CHF] 7:39: boncer34 takes a strong mark
+{1}[a_FF] 7:46: GREENESHOOTS takes a run and bounce
+{1}[h_FB] 7:50: GREENESHOOTS wins the ball in tight
+{1}[h_FB] 7:57: GreyCrow has found some space to work with
+{1}[h_CHB] 8:01: Blacky takes a run and bounce
+{1}[h_CHB] 8:04: Blacky wins the ball in tight
+{1}[h_CHB] 8:11: boncer34 has found some space to work with
+{1}[h_rHBF] 8:15: GreyCrow passes by hand
+{1}[h_rHBF] 8:18: GreyCrow wins the ball in tight
+{1}[a_lHFF] 8:25: U2tigers lays a hard tackle
+{1}[h_rHBF] 8:29: Smartys Power lays a hard tackle
+--------------------
+GCR: 0.1.1
+FUR: 1.3.9
+--------------------
+{1}[h_rHBF] 8:32: Smartys Power has found some space to work with
+{1}[a_FF] 8:35: Smartys Power has found some space to work with
+{1}[h_CHB] 8:38: Marlowe kicks the ball
+{1}[a_CHF] 8:45: GreyCrow takes a strong mark
+{1}[a_FF] 8:52: GreyCrow takes a strong mark
+{1}[h_FB] 8:56: Marlowe has found some space to work with
+{1}[h_CHB] 9:03: Blacky takes a run and bounce
+{1}[h_CHB] 9:06: Blacky wins the ball in tight
+{1}[h_CHB] 9:13: boncer34 has found some space to work with
+{1}[h_C] 9:17: boncer34 passes by hand
+{1}[a_C] 9:20: nahnah wins the ball in tight
+{1}[Contest] 9:27: Disposal is smothered and the ball spills free
+{1}[a_C] 9:31: Tigerturbulance wins the ball in tight
+{1}[a_C] 9:34: Elton Johns Wig has found some space to work with
+{1}[a_C] 9:38: Elton Johns Wig passes by hand
+{1}[h_C] 9:41: Elton Johns Wig wins the ball in tight
+{1}[a_C] 9:48: Tigerturbulance wins a free kick and the ball back
+{1}[a_CHF] 9:52: Elton Johns Wig takes a run and bounce
+{1}[h_CHB] 9:55: Elton Johns Wig wins the ball in tight
+{1}[h_CHB] 10:02: boncer34 has found some space to work with
+{1}[h_CHB] 10:06: Marlowe passes by hand
+{1}[h_CHB] 10:09: boncer34 wins the ball in tight
+{1}[Contest] 10:16: Disposal is smothered and the ball spills free
+{1}[h_CHB] 10:20: U2tigers wins the ball in tight
+{1}[h_CHB] 10:23: spookism lays a hard tackle
+{1}[h_CHB] 10:27: boncer34 has found some space to work with
+{1}[h_C] 10:30: boncer34 takes a run and bounce
+{1}[a_C] 10:33: spookism dispossesses his opponent
+{1}[h_C] 10:40: nahnah lays a hard tackle
+--------------------
+GCR: 1.1.7
+FUR: 1.3.9
+--------------------
+{1}[h_C] 10:43: nahnah has found some space to work with
+{1}[h_C] 10:46: nahnah kicks the ball
+{1}[h_C] 10:49: GreyCrow gets the hit out
+{1}[h_C] 10:56: nahnah wins the ball in tight
+{1}[a_C] 11:00: Tigerturbulance dispossesses his opponent
+{1}[a_C] 11:04: Elton Johns Wig has found some space to work with
+{1}[a_C] 11:07: Elton Johns Wig has found some space to work with
+{1}[a_C] 11:10: Elton Johns Wig has found some space to work with
+{1}[Contest] 11:17: Elton Johns Wig kicks the ball
+{1}[Contest] 11:20: spookism passes by hand
+{1}[a_lFP] 11:27: spookism passes by hand
+{1}[Contest] 11:34: Jackbero kicks the ball
+{1}[a_lFP] 11:38: Jackbero wins the ball in tight
+--------------------
+GCR: 1.1.7
+FUR: 1.4.10
+--------------------
+{1}[a_lFP] 11:45: Jackbero has found some space to work with
+{1}[a_FF] 11:49: Jackbero kicks the ball
+{1}[h_lW] 11:52: Jackbero kicks the ball
+{1}[a_rW] 11:59: Jackbero kicks the ball
+{1}[a_rHFF] 12:06: crazywildhorse takes a run and bounce
+{1}[h_lHBF] 12:09: crazywildhorse wins the ball in tight
+{1}[h_lHBF] 12:16: MrPremiership has found some space to work with
+{1}[h_lW] 12:20: MrPremiership passes by hand
+{1}[a_rW] 12:23: Fitzey wins the ball in tight
+{1}[h_lW] 12:30: Fitzey dispossesses his opponent
+{1}[h_lW] 12:34: GreyCrow lays a hard tackle
+{1}[h_lW] 12:37: Fitzey has found some space to work with
+{1}[h_lHFF] 12:40: Fitzey passes by hand
+{1}[h_lHFF] 12:43: Ulahoopski wins the ball in tight
+{1}[h_lHFF] 12:50: Ulahoopski has found some space to work with
+{1}[h_lFP] 12:54: Ulahoopski passes by hand
+{1}[a_rBP] 12:57: Dancing Potato wins the ball in tight
+{1}[a_rBP] 13:04: rfctigerarmy has found some space to work with
+{1}[Contest] 13:08: rfctigerarmy passes by hand
+{1}[h_lFP] 13:11: spookism wins the ball in tight
+{1}[a_rBP] 13:18: rfctigerarmy dispossesses his opponent
+{1}[h_lFP] 13:22: Dancing Potato dispossesses his opponent
+{1}[h_lFP] 13:25: Dancing Potato has found some space to work with
+{1}[a_rW] 13:28: Dancing Potato has found some space to work with
+{1}[a_rW] 13:31: Dancing Potato has found some space to work with
+{1}[a_rW] 13:38: Tigerturbulance kicks the ball
+{1}[h_lW] 13:41: Mister M wins the ball in tight
+{1}[Contest] 13:48: Disposal is smothered and the ball spills free
+{1}[h_lW] 13:52: U2tigers wins the ball in tight
+{1}[h_lW] 13:55: GreyCrow dispossesses his opponent
+{1}[h_lW] 13:59: Fitzey has found some space to work with
+{1}[h_lW] 14:02: Fitzey has found some space to work with
+{1}[h_lW] 14:05: Fitzey has found some space to work with
+{1}[Contest] 14:12: Fitzey has found some space to work with
+{1}[h_lW] 14:15: GreyCrow wins the ball in tight
+{1}[Contest] 14:22: Disposal is smothered and the ball spills free
+{1}[h_lW] 14:26: spookism wins the ball in tight
+{1}[a_rW] 14:29: Tigerturbulance lays a hard tackle
+{1}[a_rW] 14:33: crazywildhorse has found some space to work with
+{1}[a_rHFF] 14:36: crazywildhorse takes a run and bounce
+{1}[h_lHBF] 14:39: Fitzey lays a hard tackle
+{1}[a_rHFF] 14:46: Brunswick Trap King wins a free kick and the ball back
+{1}[a_rFP] 14:49: Brunswick Trap King takes a run and bounce
+{1}[Contest] 14:52: Disposal is smothered and the ball spills free
+{1}[h_lBP] 14:59: Tigerturbulance wins the ball in tight
+{1}[Contest] 15:02: Disposal is smothered and the ball spills free
+{1}[a_rFP] 15:06: Paddles_ wins the ball in tight
+--------------------
+GCR: 1.1.7
+FUR: 1.5.11
+--------------------
+{1}[a_rFP] 15:09: Lynchy04 has found some space to work with
+{1}[a_FF] 15:13: Lynchy04 kicks the ball
+{1}[h_rBP] 15:16: Lynchy04 kicks the ball
+{1}[h_rBP] 15:23: Engimal v3 has found some space to work with
+{1}[h_CHF] 15:30: Engimal v3 has found some space to work with
+{1}[h_CHF] 15:33: Engimal v3 has found some space to work with
+{1}[h_rHFF] 15:40: Paddles_ passes by hand
+{1}[h_rHFF] 15:43: ShaunDuggan wins the ball in tight
+{1}[h_rHFF] 15:50: GreyCrow dispossesses his opponent
+{1}[a_lHBF] 15:54: Mister M dispossesses his opponent
+{1}[h_rHFF] 15:57: ShaunDuggan has found some space to work with
+{1}[a_CHB] 16:00: ShaunDuggan has found some space to work with
+{1}[a_CHB] 16:03: TJASTA has found some space to work with
+{1}[a_C] 16:10: TJASTA passes by hand
+{1}[h_C] 16:13: Elton Johns Wig wins the ball in tight
+{1}[a_C] 16:20: Elton Johns Wig dispossesses his opponent
+{1}[Contest] 16:24: Disposal is smothered and the ball spills free
+{1}[a_C] 16:27: Paddles_ wins the ball in tight
+{1}[a_C] 16:30: Elton Johns Wig has found some space to work with
+{1}[a_CHF] 16:34: Elton Johns Wig takes a run and bounce
+{1}[Contest] 16:37: Disposal is smothered and the ball spills free
+{1}[h_CHB] 16:44: GREENESHOOTS wins the ball in tight
+{1}[h_CHB] 16:47: boncer34 has found some space to work with
+{1}[h_C] 16:51: boncer34 kicks the ball
+{1}[a_C] 16:54: nahnah wins the ball in tight
+{1}[h_C] 17:01: nahnah dispossesses his opponent
+{1}[h_C] 17:05: nahnah has found some space to work with
+{1}[h_CHF] 17:08: nahnah has found some space to work with
+{1}[h_CHF] 17:11: CakeEater has found some space to work with
+{1}[h_lHFF] 17:18: CakeEater kicks the ball
+{1}[a_rHBF] 17:21: Ulahoopski takes a strong mark
+{1}[a_rHBF] 17:28: Ulahoopski takes a strong mark
+{1}[a_rHBF] 17:32: damicky has found some space to work with
+{1}[a_rW] 17:39: damicky takes a run and bounce
+{1}[a_rW] 17:42: damicky has found some space to work with
+{1}[a_rHFF] 17:49: crazywildhorse kicks the ball
+{1}[a_rHFF] 17:52: Brunswick Trap King takes a strong mark
+{1}[h_CHB] 17:59: Brunswick Trap King takes a strong mark
+{1}[h_CHB] 18:03: Brunswick Trap King takes a strong mark
+{1}[h_CHF] 18:10: Brunswick Trap King takes a strong mark
+--------------------
+GCR: 2.1.13
+FUR: 1.5.11
+--------------------
+{1}[h_CHF] 18:13: Brunswick Trap King takes a strong mark
+{1}[h_C] 18:20: CakeEater kicks the ball
+{1}[h_C] 18:23: Marlowe gets the hit out
+{1}[a_C] 18:30: nahnah wins the ball in tight
+{1}[h_C] 18:34: nahnah dispossesses his opponent
+{1}[Contest] 18:38: Disposal is smothered and the ball spills free
+{1}[a_C] 18:41: Mister M wins the ball in tight
+{1}[a_C] 18:44: Elton Johns Wig has found some space to work with
+{1}[a_CHF] 18:48: Elton Johns Wig takes a run and bounce
+{1}[Contest] 18:51: Disposal is smothered and the ball spills free
+{1}[h_CHB] 18:58: boncer34 wins the ball in tight
+{1}[Contest] 19:01: Disposal is smothered and the ball spills free
+{1}[a_CHF] 19:05: GREENESHOOTS wins the ball in tight
+{1}[a_CHF] 19:08: GREENESHOOTS has found some space to work with
+{1}[h_rHBF] 19:12: Paddles_ kicks the ball
+{1}[h_rHBF] 19:15: Smartys Power wins the ball in tight
+{1}[a_lHFF] 19:22: Rioli8217 lays a hard tackle
+{1}[h_rHBF] 19:26: Smartys Power dispossesses his opponent
+{1}[a_lHFF] 19:29: Rioli8217 has found some space to work with
+{1}[a_lFP] 19:32: Rioli8217 has found some space to work with
+{1}[a_lFP] 19:35: Jackbero has found some space to work with
+{1}[Contest] 19:42: Jackbero has found some space to work with
+{1}[a_lW] 19:45: Tigerturbulance wins the ball in tight
+{1}[h_rW] 19:52: krakouers85 dispossesses his opponent
+{1}[a_lW] 19:56: U2tigers lays a hard tackle
+{1}[a_lW] 19:59: Sterge has found some space to work with
+{1}[a_lW] 20:02: Sterge kicks the ball
+{1}[a_lW] 20:05: Sterge wins the ball in tight
+{1}[Contest] 20:12: Disposal is smothered and the ball spills free
+{1}[h_rW] 20:16: U2tigers wins the ball in tight
+{1}[a_lW] 20:19: Sterge lays a hard tackle
+{1}[a_lW] 20:23: Sterge has found some space to work with
+{1}[a_lHFF] 20:26: Sterge has found some space to work with
+{1}[a_lHFF] 20:29: Rioli8217 has found some space to work with
+{1}[a_lFP] 20:36: Rioli8217 has found some space to work with
+{1}[a_lFP] 20:39: Jackbero has found some space to work with
+{1}[a_lFP] 20:46: Jackbero has found some space to work with
+{1}[h_rBP] 20:49: Jackbero has found some space to work with
+{1}[h_rBP] 20:56: Jackbero has found some space to work with
+{1}[h_rBP] 20:59: spookism has found some space to work with
+{1}[h_rHBF] 21:06: spookism has found some space to work with
+{1}[h_rHBF] 21:09: spookism has found some space to work with
+{1}[h_rW] 21:16: Smartys Power kicks the ball
+{1}[h_rW] 21:19: krakouers85 takes a strong mark
+{1}[h_rHFF] 21:26: krakouers85 passes by hand
+{1}[a_lHBF] 21:30: ShaunDuggan wins the ball in tight
+{1}[Contest] 21:37: Disposal is smothered and the ball spills free
+{1}[h_rHFF] 21:41: spookism wins the ball in tight
+{1}[h_rHFF] 21:44: ShaunDuggan has found some space to work with
+{1}[h_rFP] 21:48: ShaunDuggan takes a run and bounce
+{1}[a_lBP] 21:51: Tiger2709 dispossesses his opponent
+{1}[a_lBP] 21:58: Edmund Hunt has found some space to work with
+{1}[a_lBP] 22:01: Edmund Hunt passes by hand
+{1}[h_rFP] 22:04: Edmund Hunt wins the ball in tight
+{1}[a_lBP] 22:11: Edmund Hunt dispossesses his opponent
+{1}[Contest] 22:15: Disposal is smothered and the ball spills free
+{1}[a_lBP] 22:18: spookism wins the ball in tight
+{1}[a_lBP] 22:21: Edmund Hunt has found some space to work with
+{1}[Contest] 22:25: Edmund Hunt has found some space to work with
+{1}[a_lBP] 22:28: Edmund Hunt has found some space to work with
+{1}[a_lHBF] 22:35: Edmund Hunt takes a run and bounce
+{1}[Contest] 22:39: Disposal is smothered and the ball spills free
+{1}[a_lHBF] 22:46: Mister M wins the ball in tight
+{1}[h_rHFF] 22:49: ShaunDuggan dispossesses his opponent
+{1}[h_rHFF] 22:53: ShaunDuggan has found some space to work with
+{1}[h_rFP] 22:56: ShaunDuggan kicks the ball
+{1}[a_lBP] 22:59: ShaunDuggan kicks the ball
+{1}[a_FB] 23:06: Edmund Hunt passes by hand
+{1}[h_FF] 23:10: Ned_Flanders wins the ball in tight
+{1}[h_FF] 23:17: The Filth Wizard has found some space to work with
+{1}[h_lFP] 23:21: The Filth Wizard has found some space to work with
+{1}[h_lFP] 23:24: Dancing Potato has found some space to work with
+{1}[Contest] 23:31: Dancing Potato has found some space to work with
+{1}[h_lFP] 23:34: rfctigerarmy wins the ball in tight
+{1}[a_rBP] 23:41: rfctigerarmy dispossesses his opponent
+{1}[h_lFP] 23:45: Dancing Potato lays a hard tackle
+{1}[h_lFP] 23:48: Dancing Potato has found some space to work with
+{1}[a_rHFF] 23:51: Dancing Potato has found some space to work with
+{1}[a_rHFF] 23:54: Dancing Potato has found some space to work with
+{1}[a_rFP] 24:01: Brunswick Trap King passes by hand
+{1}[a_rFP] 24:04: Brunswick Trap King passes by hand
+{1}[h_lHBF] 24:11: Paddles_ takes a run and bounce
+{1}[a_rHFF] 24:15: Paddles_ wins the ball in tight
+{1}[a_rHFF] 24:22: Tigerturbulance has found some space to work with
+{1}[a_rFP] 24:26: Brunswick Trap King kicks the ball
+{1}[h_lBP] 24:29: Lynchy04 wins the ball in tight
+{1}[a_rFP] 24:36: Lynchy04 dispossesses his opponent
+{1}[Contest] 24:40: Disposal is smothered and the ball spills free
+{1}[a_rFP] 24:43: Tigerturbulance wins the ball in tight
+{1}[a_rFP] 24:46: U2tigers has found some space to work with
+{1}[a_FF] 24:50: Lynchy04 kicks the ball
+{1}[a_FF] 24:53: tigland wins the ball in tight
+{1}[h_FB] 25:00: grumbleguts dispossesses his opponent
+{1}[h_FB] 25:04: spookism has found some space to work with
+{1}[a_lFP] 25:07: spookism has found some space to work with
+{1}[a_lFP] 25:10: Jackbero has found some space to work with
+{1}[a_FF] 25:17: Jackbero passes by hand
+--------------------
+GCR: 2.1.13
+FUR: 1.6.12
+--------------------
+{1}[a_FF] 25:20: Jackbero passes by hand
+{1}[a_FF] 25:27: Jackbero passes by hand
+{1}[h_rBP] 25:31: grumbleguts kicks the ball
+{1}[a_lFP] 25:38: Engimal v3 wins the ball in tight
+{1}[h_rBP] 25:45: Engimal v3 wins a free kick and the ball back
+{1}[h_FB] 25:49: Paddles_ passes by hand
+{1}[a_FF] 25:52: Mister M wins the ball in tight
+{1}[a_FF] 25:59: tigland has found some space to work with
+{1}[a_FF] 26:03: tigland passes by hand
+{1}[h_FB] 26:06: tigland wins the ball in tight
+{1}[a_FF] 26:13: Tigerturbulance lays a hard tackle
+{1}[Contest] 26:17: Disposal is smothered and the ball spills free
+{1}[a_FF] 26:20: Paddles_ wins the ball in tight
+--------------------
+GCR: 2.1.13
+FUR: 2.6.18
+--------------------
+{1}[a_FF] 26:23: tigland has found some space to work with
+{1}[a_C] 26:27: tigland kicks the ball
+{1}[a_C] 26:30: U2tigers gets the hit out
+{1}[a_C] 26:37: Elton Johns Wig wins the ball in tight
+{1}[Contest] 26:41: Disposal is smothered and the ball spills free
+{1}[a_C] 26:45: spookism wins the ball in tight
+{1}[h_C] 26:48: Blacky lays a hard tackle
+{1}[h_C] 26:52: Blacky has found some space to work with
+{1}[h_lW] 26:55: Blacky kicks the ball
+{1}[h_lW] 26:58: Fitzey wins the ball in tight
+{1}[a_rW] 27:05: crazywildhorse dispossesses his opponent
+{1}[h_lW] 27:09: Fitzey lays a hard tackle
+{1}[h_lW] 27:12: Fitzey has found some space to work with
+{1}[h_lHFF] 27:15: Fitzey passes by hand
+{1}[h_lHFF] 27:18: Fitzey passes by hand
+{1}[h_lFP] 27:25: Ulahoopski takes a run and bounce
+--------------------
+GCR: 2.2.14
+FUR: 2.6.18
+--------------------
+{1}[h_lFP] 27:29: Ulahoopski has found some space to work with
+{1}[h_FF] 27:36: Ulahoopski has found some space to work with
+{1}[a_rBP] 27:39: Ned_Flanders passes by hand
+{1}[h_lFP] 27:46: rfctigerarmy wins the ball in tight
+{1}[a_rBP] 27:53: rfctigerarmy dispossesses his opponent
+{1}[Contest] 27:57: Disposal is smothered and the ball spills free
+{1}[a_rBP] 28:00: Dancing Potato wins the ball in tight
+{1}[a_rBP] 28:03: rfctigerarmy has found some space to work with
+{1}[Contest] 28:07: rfctigerarmy has found some space to work with
+{1}[h_lFP] 28:10: Paddles_ wins the ball in tight
+{1}[h_lFP] 28:17: Dancing Potato has found some space to work with
+{1}[a_rHBF] 28:21: Dancing Potato has found some space to work with
+{1}[a_rHBF] 28:24: damicky has found some space to work with
+{1}[a_rW] 28:31: damicky takes a run and bounce
+{1}[h_lW] 28:34: Ulahoopski wins a free kick and the ball back
+{1}[h_lHFF] 28:41: Ulahoopski wins a free kick and the ball back
+{1}[h_lHFF] 28:44: Ulahoopski wins a free kick and the ball back
+{1}[h_lFP] 28:51: Ulahoopski passes by hand
+{1}[h_lFP] 28:54: Dancing Potato wins the ball in tight
+{1}[a_rBP] 29:01: rfctigerarmy dispossesses his opponent
+{1}[a_rBP] 29:05: rfctigerarmy has found some space to work with
+{1}[h_FF] 29:08: rfctigerarmy has found some space to work with
+{1}[h_FF] 29:11: spookism has found some space to work with
+{1}[h_FF] 29:18: The Filth Wizard passes by hand
+{1}[a_FB] 29:21: The Filth Wizard wins the ball in tight
+{1}[a_FB] 29:28: Ned_Flanders has found some space to work with
+{1}[a_CHB] 29:32: Tigerturbulance takes a run and bounce
+{1}[a_CHB] 29:35: Tigerturbulance has found some space to work with
+{1}[a_C] 29:42: Tigerturbulance has found some space to work with
+{1}[h_C] 29:45: Blacky has found some space to work with
+{1}[a_FF] 29:52: Tigerturbulance kicks the ball
+====================
+END OF QUARTER 1
+GCR: 2.2.14
+FUR: 2.6.18
+====================
+{1}[a_FF] 29:55: tigland takes a strong mark
+{2}[h_C] 30:02: Marlowe gets the hit out
+{2}[h_C] 0:00: Blacky wins the ball in tight
+{2}[h_C] 0:04: Blacky has found some space to work with
+{2}[h_CHF] 0:08: Blacky passes by hand
+{2}[a_CHB] 0:11: CakeEater wins the ball in tight
+{2}[Contest] 0:18: Disposal is smothered and the ball spills free
+{2}[h_CHF] 0:22: spookism wins the ball in tight
+{2}[a_CHB] 0:25: Mister M lays a hard tackle
+{2}[a_CHB] 0:29: TJASTA has found some space to work with
+{2}[a_C] 0:32: TJASTA kicks the ball
+{2}[h_C] 0:35: Elton Johns Wig wins the ball in tight
+{2}[a_C] 0:42: Elton Johns Wig dispossesses his opponent
+{2}[h_C] 0:46: Blacky lays a hard tackle
+{2}[h_C] 0:49: Blacky has found some space to work with
+{2}[h_CHF] 0:52: Blacky has found some space to work with
+{2}[h_CHF] 0:55: CakeEater has found some space to work with
+{2}[h_FF] 1:02: CakeEater has found some space to work with
+{2}[h_FF] 1:05: CakeEater has found some space to work with
+{2}[h_lFP] 1:12: CakeEater has found some space to work with
+{2}[h_lFP] 1:15: CakeEater has found some space to work with
+{2}[Contest] 1:22: Dancing Potato passes by hand
+{2}[a_rBP] 1:25: spookism wins the ball in tight
+{2}[a_rBP] 1:32: rfctigerarmy has found some space to work with
+{2}[a_rHBF] 1:36: Tigerturbulance takes a run and bounce
+{2}[a_rHBF] 1:39: Tigerturbulance wins the ball in tight
+{2}[h_lHFF] 1:46: spookism wins a free kick and the ball back
+{2}[h_lFP] 1:50: Ulahoopski passes by hand
+{2}[a_rBP] 1:53: spookism wins the ball in tight
+{2}[Contest] 2:00: Disposal is smothered and the ball spills free
+{2}[a_rBP] 2:04: spookism wins the ball in tight
+{2}[h_lFP] 2:07: Tigerturbulance dispossesses his opponent
+{2}[a_rBP] 2:11: Tigerturbulance has found some space to work with
+{2}[a_FB] 2:14: Tigerturbulance has found some space to work with
+{2}[a_FB] 2:17: Ned_Flanders has found some space to work with
+{2}[a_lBP] 2:24: Ned_Flanders has found some space to work with
+{2}[a_lBP] 2:27: Ned_Flanders has found some space to work with
+{2}[a_FB] 2:34: Brunswick Trap King passes by hand
+{2}[a_FB] 2:37: Mister M wins the ball in tight
+{2}[h_FF] 2:44: Paddles_ dispossesses his opponent
+{2}[a_FB] 2:48: Paddles_ dispossesses his opponent
+{2}[a_FB] 2:51: Mister M has found some space to work with
+{2}[a_lBP] 2:54: Ned_Flanders kicks the ball
+{2}[h_rFP] 2:57: MC Bad Genius takes a strong mark
+{2}[h_FF] 3:04: MC Bad Genius kicks the ball
+{2}[h_FF] 3:08: MC Bad Genius kicks the ball
+{2}[h_lFP] 3:15: The Filth Wizard kicks the ball
+{2}[a_rBP] 3:19: Dancing Potato wins the ball in tight
+{2}[Contest] 3:26: Disposal is smothered and the ball spills free
+{2}[a_rBP] 3:30: Marlowe wins the ball in tight
+{2}[h_lFP] 3:33: spookism lays a hard tackle
+{2}[h_lFP] 3:37: Dancing Potato has found some space to work with
+{2}[h_FF] 3:40: spookism kicks the ball
+{2}[a_FB] 3:43: Paddles_ takes a strong mark
+{2}[h_lFP] 3:50: Paddles_ takes a strong mark
+{2}[a_rBP] 3:54: Paddles_ takes a strong mark
+{2}[h_FF] 4:01: Paddles_ kicks the ball
+{2}[a_FB] 4:04: The Filth Wizard wins the ball in tight
+{2}[a_FB] 4:11: U2tigers dispossesses his opponent
+{2}[h_FF] 4:15: U2tigers dispossesses his opponent
+--------------------
+GCR: 2.3.15
+FUR: 2.6.18
+--------------------
+{2}[h_FF] 4:18: The Filth Wizard has found some space to work with
+{2}[h_FF] 4:21: The Filth Wizard has found some space to work with
+{2}[a_CHB] 4:24: The Filth Wizard has found some space to work with
+{2}[a_CHB] 4:31: TJASTA has found some space to work with
+{2}[a_CHB] 4:38: TJASTA has found some space to work with
+{2}[a_CHB] 4:41: TJASTA has found some space to work with
+{2}[a_rHBF] 4:48: TJASTA has found some space to work with
+{2}[a_rHBF] 4:51: TJASTA has found some space to work with
+{2}[Contest] 4:58: TJASTA has found some space to work with
+{2}[a_rHBF] 5:01: damicky wins the ball in tight
+{2}[h_lHFF] 5:08: Ulahoopski lays a hard tackle
+{2}[h_lHFF] 5:12: Ulahoopski has found some space to work with
+{2}[a_rHFF] 5:15: Ulahoopski has found some space to work with
+{2}[a_rHFF] 5:18: Ulahoopski has found some space to work with
+{2}[Contest] 5:25: Ulahoopski has found some space to work with
+{2}[a_rHFF] 5:28: Wacky Tiger wins the ball in tight
+{2}[h_lHBF] 5:35: MrPremiership wins a free kick and the ball back
+{2}[h_lW] 5:39: MrPremiership kicks the ball
+{2}[h_lW] 5:42: nahnah takes a strong mark
+{2}[h_lHFF] 5:49: nahnah takes a run and bounce
+{2}[a_rHBF] 5:53: nahnah wins the ball in tight
+{2}[h_lHFF] 6:00: Ulahoopski lays a hard tackle
+{2}[a_rHBF] 6:04: Ulahoopski wins a free kick and the ball back
+{2}[a_rW] 6:07: damicky passes by hand
+{2}[a_rW] 6:10: crazywildhorse wins the ball in tight
+{2}[h_lW] 6:17: nahnah dispossesses his opponent
+{2}[a_rW] 6:21: crazywildhorse lays a hard tackle
+{2}[a_rW] 6:24: crazywildhorse has found some space to work with
+{2}[a_rHFF] 6:27: crazywildhorse passes by hand
+{2}[a_rHFF] 6:30: Wacky Tiger wins the ball in tight
+{2}[Contest] 6:37: Disposal is smothered and the ball spills free
+{2}[h_lHBF] 6:41: U2tigers wins the ball in tight
+{2}[h_lHBF] 6:44: MrPremiership has found some space to work with
+{2}[h_lW] 6:48: MrPremiership has found some space to work with
+{2}[h_lW] 6:51: MrPremiership has found some space to work with
+{2}[Contest] 6:58: MrPremiership has found some space to work with
+{2}[a_rW] 7:01: Mister M wins the ball in tight
+{2}[a_rW] 7:08: crazywildhorse has found some space to work with
+{2}[h_lHFF] 7:12: Paddles_ takes a run and bounce
+{2}[h_lHFF] 7:15: Paddles_ wins the ball in tight
+{2}[h_lHFF] 7:22: Paddles_ dispossesses his opponent
+{2}[h_lHFF] 7:26: Ulahoopski has found some space to work with
+{2}[h_lHFF] 7:29: Ulahoopski passes by hand
+{2}[a_rHBF] 7:32: Ulahoopski wins the ball in tight
+{2}[a_rHBF] 7:39: damicky has found some space to work with
+{2}[a_rFP] 7:43: damicky kicks the ball
+--------------------
+GCR: 2.3.15
+FUR: 2.7.19
+--------------------
+{2}[a_rFP] 7:46: Lynchy04 takes a strong mark
+{2}[a_FF] 7:53: Lynchy04 takes a strong mark
+{2}[h_CHB] 7:57: Lynchy04 takes a strong mark
+{2}[h_CHB] 8:04: Lynchy04 takes a strong mark
+{2}[h_lHBF] 8:11: Lynchy04 takes a strong mark
+{2}[h_lHBF] 8:14: MrPremiership has found some space to work with
+{2}[h_lW] 8:21: MrPremiership kicks the ball
+{2}[h_lW] 8:24: U2tigers takes a strong mark
+{2}[h_lW] 8:31: nahnah kicks the ball
+{2}[a_rW] 8:35: nahnah wins the ball in tight
+{2}[h_lW] 8:42: nahnah wins a free kick and the ball back
+{2}[h_lW] 8:46: nahnah kicks the ball
+{2}[a_rW] 8:49: nahnah takes a strong mark
+{2}[a_rW] 8:56: crazywildhorse passes by hand
+{2}[a_rW] 9:00: crazywildhorse passes by hand
+{2}[a_rHFF] 9:07: crazywildhorse takes a run and bounce
+{2}[a_rHFF] 9:11: crazywildhorse takes a run and bounce
+{2}[a_rFP] 9:18: Wacky Tiger takes a run and bounce
+{2}[h_lBP] 9:22: Wacky Tiger wins the ball in tight
+{2}[a_rFP] 9:29: Lynchy04 lays a hard tackle
+{2}[h_lBP] 9:33: PMBangers dispossesses his opponent
+{2}[h_lBP] 9:36: PMBangers has found some space to work with
+{2}[h_lHBF] 9:39: PMBangers passes by hand
+{2}[a_rHFF] 9:42: MrPremiership wins the ball in tight
+{2}[Contest] 9:49: Disposal is smothered and the ball spills free
+{2}[a_rHFF] 9:53: Mister M wins the ball in tight
+{2}[h_lHBF] 9:56: Paddles_ lays a hard tackle
+{2}[a_rHFF] 10:00: Wacky Tiger has found some space to work with
+{2}[a_rHFF] 10:03: Wacky Tiger passes by hand
+{2}[a_rHFF] 10:06: Wacky Tiger wins the ball in tight
+{2}[a_rHFF] 10:13: Mister M dispossesses his opponent
+{2}[Contest] 10:17: Disposal is smothered and the ball spills free
+{2}[h_lHBF] 10:20: Marlowe wins the ball in tight
+{2}[a_rHFF] 10:23: Mister M has found some space to work with
+{2}[Contest] 10:27: Mister M has found some space to work with
+{2}[h_lHBF] 10:30: Wacky Tiger wins the ball in tight
+{2}[a_rHFF] 10:37: Wacky Tiger dispossesses his opponent
+{2}[a_rHFF] 10:41: Tigerturbulance dispossesses his opponent
+{2}[a_rHFF] 10:44: Tigerturbulance has found some space to work with
+{2}[a_rFP] 10:47: Wacky Tiger passes by hand
+{2}[a_rFP] 10:50: Lynchy04 wins the ball in tight
+{2}[h_lBP] 10:57: PMBangers lays a hard tackle
+{2}[h_lBP] 11:01: PMBangers has found some space to work with
+{2}[h_rW] 11:04: PMBangers has found some space to work with
+{2}[a_lW] 11:07: PMBangers has found some space to work with
+{2}[a_lW] 11:14: PMBangers has found some space to work with
+{2}[a_lW] 11:17: PMBangers has found some space to work with
+{2}[a_lW] 11:24: Elton Johns Wig passes by hand
+{2}[h_rW] 11:27: Elton Johns Wig wins the ball in tight
+{2}[h_rW] 11:34: GreyCrow has found some space to work with
+{2}[h_rHFF] 11:38: GreyCrow has found some space to work with
+--------------------
+GCR: 2.4.16
+FUR: 2.7.19
+--------------------
+{2}[h_rHFF] 11:41: GreyCrow has found some space to work with
+{2}[h_FF] 11:48: GreyCrow has found some space to work with
+{2}[a_rBP] 11:51: Ned_Flanders passes by hand
+--------------------
+GCR: 2.5.17
+FUR: 2.7.19
+--------------------
+{2}[h_lFP] 11:58: Ned_Flanders passes by hand
+{2}[h_FF] 12:05: Dancing Potato kicks the ball
+{2}[a_rBP] 12:09: Dancing Potato kicks the ball
+{2}[a_rBP] 12:16: rfctigerarmy has found some space to work with
+{2}[a_rHBF] 12:23: Tigerturbulance passes by hand
+{2}[a_rHBF] 12:26: damicky wins the ball in tight
+{2}[a_rHBF] 12:33: damicky has found some space to work with
+{2}[a_rW] 12:37: damicky has found some space to work with
+{2}[a_rW] 12:40: Sterge has found some space to work with
+{2}[a_C] 12:47: Sterge has found some space to work with
+{2}[a_C] 12:50: Sterge has found some space to work with
+{2}[a_CHF] 12:57: Sterge has found some space to work with
+{2}[a_CHF] 13:00: GREENESHOOTS has found some space to work with
+{2}[a_FF] 13:07: GREENESHOOTS kicks the ball
+{2}[h_FB] 13:10: Mister M wins the ball in tight
+{2}[a_FF] 13:17: Paddles_ lays a hard tackle
+{2}[Contest] 13:21: Disposal is smothered and the ball spills free
+{2}[h_FB] 13:24: U2tigers wins the ball in tight
+{2}[h_FB] 13:27: spookism has found some space to work with
+{2}[h_CHB] 13:31: Fitzey takes a run and bounce
+{2}[h_CHB] 13:34: Fitzey has found some space to work with
+{2}[Contest] 13:41: boncer34 kicks the ball
+{2}[h_lHFF] 13:44: Ulahoopski wins the ball in tight
+{2}[a_rHBF] 13:51: damicky dispossesses his opponent
+{2}[h_lHFF] 13:55: Ulahoopski dispossesses his opponent
+{2}[h_lHFF] 13:58: Marlowe has found some space to work with
+{2}[Contest] 14:01: Marlowe has found some space to work with
+{2}[a_rBP] 14:04: Marlowe has found some space to work with
+{2}[a_rBP] 14:11: rfctigerarmy has found some space to work with
+{2}[a_rW] 14:18: rfctigerarmy kicks the ball
+{2}[a_rW] 14:21: Sterge takes a strong mark
+{2}[a_rW] 14:28: Sterge takes a strong mark
+{2}[h_lW] 14:32: Sterge takes a strong mark
+{2}[h_lFP] 14:39: Sterge takes a strong mark
+{2}[h_lFP] 14:42: Sterge takes a strong mark
+{2}[h_lFP] 14:49: Sterge takes a strong mark
+--------------------
+GCR: 3.5.23
+FUR: 2.7.19
+--------------------
+{2}[h_lFP] 14:52: Sterge takes a strong mark
+{2}[h_C] 14:59: Sterge takes a strong mark
+{2}[h_C] 15:02: Marlowe gets the hit out
+{2}[a_C] 15:09: Blacky wins the ball in tight
+{2}[a_C] 15:13: Tigerturbulance has found some space to work with
+{2}[a_CHF] 15:17: Tigerturbulance has found some space to work with
+{2}[h_CHB] 15:20: Paddles_ has found some space to work with
+{2}[h_C] 15:27: boncer34 takes a run and bounce
+{2}[Contest] 15:30: Disposal is smothered and the ball spills free
+{2}[a_C] 15:37: spookism wins the ball in tight
+{2}[a_C] 15:40: U2tigers dispossesses his opponent
+{2}[a_C] 15:44: Bastyy has found some space to work with
+{2}[a_lW] 15:47: Bastyy kicks the ball
+{2}[a_lW] 15:50: Marlowe takes a strong mark
+{2}[Contest] 15:57: Marlowe takes a strong mark
+{2}[h_rW] 16:01: spookism wins the ball in tight
+{2}[a_lW] 16:08: Elton Johns Wig dispossesses his opponent
+{2}[h_rW] 16:12: GreyCrow dispossesses his opponent
+{2}[h_rW] 16:15: GreyCrow has found some space to work with
+{2}[h_rHFF] 16:18: GreyCrow takes a run and bounce
+{2}[Contest] 16:21: Disposal is smothered and the ball spills free
+{2}[a_lHBF] 16:28: Tigerturbulance wins the ball in tight
+{2}[h_rHFF] 16:31: krakouers85 lays a hard tackle
+{2}[h_rHFF] 16:35: krakouers85 has found some space to work with
+{2}[h_rFP] 16:38: krakouers85 takes a run and bounce
+{2}[h_rFP] 16:41: krakouers85 takes a run and bounce
+{2}[Contest] 16:48: krakouers85 takes a run and bounce
+{2}[h_rFP] 16:52: MC Bad Genius wins the ball in tight
+{2}[h_rFP] 16:59: MC Bad Genius has found some space to work with
+{2}[h_rFP] 17:03: MC Bad Genius passes by hand
+{2}[h_rFP] 17:06: MC Bad Genius wins the ball in tight
+--------------------
+GCR: 4.5.29
+FUR: 2.7.19
+--------------------
+{2}[h_rFP] 17:13: MC Bad Genius has found some space to work with
+{2}[h_C] 17:17: MC Bad Genius has found some space to work with
+{2}[h_C] 17:20: Marlowe gets the hit out
+{2}[a_C] 17:27: Blacky wins the ball in tight
+{2}[a_C] 17:31: Bastyy has found some space to work with
+{2}[a_CHF] 17:35: Bastyy has found some space to work with
+{2}[a_CHF] 17:38: GREENESHOOTS has found some space to work with
+{2}[a_FF] 17:45: GREENESHOOTS has found some space to work with
+{2}[a_FF] 17:48: tigland has found some space to work with
+{2}[a_FF] 17:55: tigland kicks the ball
+{2}[h_FB] 17:58: tigland wins the ball in tight
+{2}[h_FB] 18:05: Fitzey has found some space to work with
+{2}[h_C] 18:09: Fitzey kicks the ball
+{2}[a_C] 18:12: Blacky takes a strong mark
+{2}[a_CHF] 18:19: Tigerturbulance kicks the ball
+{2}[h_CHB] 18:23: GREENESHOOTS wins the ball in tight
+{2}[a_CHF] 18:30: GREENESHOOTS dispossesses his opponent
+{2}[Contest] 18:34: Disposal is smothered and the ball spills free
+{2}[a_CHF] 18:37: Paddles_ wins the ball in tight
+{2}[a_CHF] 18:40: GREENESHOOTS has found some space to work with
+{2}[a_rHFF] 18:44: GREENESHOOTS has found some space to work with
+{2}[a_rHFF] 18:47: GREENESHOOTS has found some space to work with
+{2}[a_rFP] 18:54: Wacky Tiger passes by hand
+{2}[a_rFP] 18:57: Lynchy04 wins the ball in tight
+{2}[Contest] 19:04: Disposal is smothered and the ball spills free
+{2}[a_rFP] 19:08: Disposal is smothered and the ball spills free
+{2}[Contest] 19:11: Disposal is smothered and the ball spills free
+{2}[h_lBP] 19:15: PMBangers wins the ball in tight
+{2}[h_lBP] 19:22: PMBangers has found some space to work with
+{2}[h_lHBF] 19:26: PMBangers takes a run and bounce
+{2}[a_rHFF] 19:29: Lynchy04 dispossesses his opponent
+{2}[a_rHFF] 19:36: Wacky Tiger has found some space to work with
+{2}[Contest] 19:39: Wacky Tiger has found some space to work with
+{2}[a_rHFF] 19:42: U2tigers wins the ball in tight
+{2}[a_rHFF] 19:49: Wacky Tiger has found some space to work with
+{2}[a_rHFF] 19:53: Wacky Tiger kicks the ball
+{2}[a_rHFF] 19:56: Wacky Tiger takes a strong mark
+{2}[a_rFP] 20:03: Wacky Tiger passes by hand
+{2}[a_rFP] 20:07: Wacky Tiger passes by hand
+{2}[a_rFP] 20:14: Lynchy04 passes by hand
+{2}[h_lBP] 20:18: Lynchy04 wins the ball in tight
+{2}[Contest] 20:25: Disposal is smothered and the ball spills free
+{2}[h_lBP] 20:29: spookism wins the ball in tight
+{2}[a_rFP] 20:32: Lynchy04 has found some space to work with
+{2}[Contest] 20:36: Lynchy04 has found some space to work with
+{2}[h_lBP] 20:39: Lynchy04 has found some space to work with
+--------------------
+GCR: 4.5.29
+FUR: 2.8.20
+--------------------
+{2}[a_rFP] 20:46: Mister M has found some space to work with
+{2}[a_FF] 20:53: Mister M has found some space to work with
+{2}[h_CHB] 20:56: Mister M has found some space to work with
+{2}[h_CHB] 21:03: Mister M has found some space to work with
+{2}[h_C] 21:10: boncer34 passes by hand
+{2}[h_C] 21:13: boncer34 passes by hand
+{2}[h_rW] 21:20: boncer34 passes by hand
+{2}[h_rW] 21:24: GreyCrow has found some space to work with
+{2}[h_rHFF] 21:31: GreyCrow takes a run and bounce
+{2}[h_rHFF] 21:34: GreyCrow wins the ball in tight
+{2}[a_lHBF] 21:41: Tigerturbulance has found some space to work with
+{2}[Contest] 21:45: Tigerturbulance has found some space to work with
+{2}[h_rHFF] 21:48: spookism wins the ball in tight
+{2}[a_lHBF] 21:55: Tiger2709 dispossesses his opponent
+{2}[a_lHBF] 21:59: Mister M lays a hard tackle
+{2}[a_lHBF] 22:02: Tiger2709 has found some space to work with
+{2}[a_lW] 22:05: Tiger2709 takes a run and bounce
+{2}[a_lW] 22:08: Tiger2709 wins the ball in tight
+{2}[h_rW] 22:15: GreyCrow wins a free kick and the ball back
+{2}[h_rHFF] 22:19: GreyCrow takes a run and bounce
+{2}[h_rHFF] 22:22: GreyCrow wins the ball in tight
+{2}[h_rHFF] 22:29: krakouers85 has found some space to work with
+{2}[Contest] 22:33: krakouers85 kicks the ball
+{2}[a_lW] 22:36: krakouers85 kicks the ball
+{2}[h_rW] 22:43: krakouers85 kicks the ball
+{2}[h_rHFF] 22:50: krakouers85 kicks the ball
+{2}[h_rHFF] 22:53: krakouers85 has found some space to work with
+{2}[h_rHFF] 23:00: krakouers85 kicks the ball
+--------------------
+GCR: 4.6.30
+FUR: 2.8.20
+--------------------
+{2}[h_rHFF] 23:03: krakouers85 takes a strong mark
+{2}[h_FF] 23:10: krakouers85 takes a strong mark
+{2}[a_CHB] 23:14: Ned_Flanders takes a run and bounce
+{2}[h_CHF] 23:21: Ned_Flanders wins the ball in tight
+{2}[h_CHF] 23:28: CakeEater has found some space to work with
+{2}[h_FF] 23:32: CakeEater passes by hand
+{2}[h_FF] 23:35: Tigerturbulance wins the ball in tight
+{2}[a_FB] 23:42: spookism dispossesses his opponent
+{2}[h_FF] 23:46: The Filth Wizard dispossesses his opponent
+{2}[h_FF] 23:49: Marlowe has found some space to work with
+{2}[h_rFP] 23:52: The Filth Wizard kicks the ball
+{2}[h_rFP] 23:55: MC Bad Genius wins the ball in tight
+--------------------
+GCR: 5.6.36
+FUR: 2.8.20
+--------------------
+{2}[h_rFP] 24:02: MC Bad Genius has found some space to work with
+{2}[h_C] 24:06: MC Bad Genius has found some space to work with
+{2}[a_C] 24:09: U2tigers gets the hit out
+{2}[a_C] 24:16: Bastyy wins the ball in tight
+{2}[h_C] 24:20: Blacky dispossesses his opponent
+{2}[a_C] 24:24: Bastyy wins a free kick and the ball back
+{2}[a_CHF] 24:27: Bastyy wins a free kick and the ball back
+{2}[a_CHF] 24:30: Bastyy wins a free kick and the ball back
+{2}[a_rHFF] 24:37: Bastyy wins a free kick and the ball back
+{2}[a_rHFF] 24:40: Wacky Tiger has found some space to work with
+{2}[a_rFP] 24:47: Wacky Tiger takes a run and bounce
+{2}[a_rFP] 24:50: Wacky Tiger has found some space to work with
+====================
+END OF QUARTER 2
+GCR: 5.6.36
+FUR: 2.8.20
+====================
+{2}[a_FF] 24:57: Lynchy04 kicks the ball
+{3}[a_C] 25:00: U2tigers gets the hit out
+{3}[h_C] 0:00: Bastyy wins the ball in tight
+{3}[h_C] 0:04: Blacky has found some space to work with
+{3}[h_lW] 0:08: spookism passes by hand
+{3}[a_rW] 0:11: nahnah wins the ball in tight
+{3}[a_rW] 0:18: Sterge has found some space to work with
+{3}[h_lW] 0:22: nahnah passes by hand
+{3}[h_lW] 0:25: nahnah wins the ball in tight
+{3}[h_lW] 0:32: nahnah has found some space to work with
+{3}[h_lHFF] 0:36: nahnah passes by hand
+{3}[a_rHBF] 0:39: spookism wins the ball in tight
+{3}[h_lHFF] 0:46: Tigerturbulance lays a hard tackle
+{3}[Contest] 0:50: Disposal is smothered and the ball spills free
+{3}[a_rHBF] 0:53: Disposal is smothered and the ball spills free
+{3}[a_CHB] 0:56: Disposal is smothered and the ball spills free
+{3}[a_CHB] 1:00: TJASTA has found some space to work with
+{3}[a_rHBF] 1:07: TJASTA has found some space to work with
+{3}[a_rHBF] 1:10: damicky has found some space to work with
+{3}[a_rW] 1:17: damicky has found some space to work with
+--------------------
+GCR: 5.6.36
+FUR: 3.8.26
+--------------------
+{3}[a_rW] 1:20: Tigerturbulance has found some space to work with
+{3}[a_C] 1:27: Tigerturbulance has found some space to work with
+{3}[h_C] 1:30: Marlowe gets the hit out
+{3}[a_C] 1:37: Tigerturbulance wins the ball in tight
+{3}[a_C] 1:41: Bastyy has found some space to work with
+{3}[a_lW] 1:45: Bastyy passes by hand
+{3}[a_lW] 1:48: Elton Johns Wig wins the ball in tight
+{3}[h_rW] 1:55: GreyCrow dispossesses his opponent
+{3}[a_lW] 1:59: Mister M lays a hard tackle
+{3}[a_lW] 2:02: Elton Johns Wig has found some space to work with
+{3}[a_lW] 2:05: Elton Johns Wig has found some space to work with
+{3}[a_lW] 2:08: Elton Johns Wig has found some space to work with
+{3}[a_C] 2:15: Elton Johns Wig passes by hand
+{3}[h_C] 2:18: Bastyy wins the ball in tight
+{3}[a_C] 2:25: Bastyy dispossesses his opponent
+{3}[a_C] 2:29: Bastyy has found some space to work with
+{3}[a_C] 2:32: Bastyy kicks the ball
+{3}[a_C] 2:35: Bastyy kicks the ball
+{3}[a_FF] 2:42: Bastyy kicks the ball
+{3}[h_FB] 2:46: Fitzey wins the ball in tight
+{3}[a_FF] 2:53: tigland lays a hard tackle
+{3}[Contest] 2:57: Disposal is smothered and the ball spills free
+{3}[a_FF] 3:00: Tigerturbulance wins the ball in tight
+{3}[a_FF] 3:03: tigland has found some space to work with
+{3}[a_rFP] 3:07: Tigerturbulance kicks the ball
+{3}[h_lBP] 3:10: Edmund Hunt takes a strong mark
+{3}[h_lHBF] 3:17: Edmund Hunt takes a strong mark
+{3}[h_lHBF] 3:21: MrPremiership has found some space to work with
+{3}[h_lW] 3:28: MrPremiership has found some space to work with
+{3}[h_lW] 3:31: nahnah has found some space to work with
+{3}[Contest] 3:38: nahnah kicks the ball
+{3}[h_lW] 3:41: spookism wins the ball in tight
+{3}[a_rW] 3:48: Tigerturbulance lays a hard tackle
+{3}[h_lW] 3:52: Tigerturbulance lays a hard tackle
+{3}[h_lW] 3:55: nahnah has found some space to work with
+{3}[h_lHFF] 3:58: nahnah has found some space to work with
+{3}[h_lHFF] 4:01: Engimal v3 has found some space to work with
+{3}[h_lFP] 4:08: Engimal v3 passes by hand
+{3}[h_lFP] 4:11: spookism wins the ball in tight
+{3}[a_rBP] 4:18: Tigerturbulance lays a hard tackle
+{3}[h_lFP] 4:22: spookism dispossesses his opponent
+--------------------
+GCR: 5.7.37
+FUR: 3.8.26
+--------------------
+{3}[h_lFP] 4:25: Dancing Potato has found some space to work with
+{3}[h_FF] 4:28: Dancing Potato kicks the ball
+{3}[a_CHB] 4:31: Ned_Flanders passes by hand
+{3}[h_CHF] 4:38: TJASTA wins the ball in tight
+{3}[h_CHF] 4:45: CakeEater has found some space to work with
+{3}[h_FF] 4:49: CakeEater has found some space to work with
+{3}[h_FF] 4:52: CakeEater has found some space to work with
+{3}[h_FF] 4:59: CakeEater has found some space to work with
+{3}[h_FF] 5:02: spookism has found some space to work with
+{3}[h_FF] 5:09: spookism passes by hand
+{3}[a_FB] 5:12: U2tigers wins the ball in tight
+{3}[h_FF] 5:19: Marlowe lays a hard tackle
+{3}[a_FB] 5:23: Ned_Flanders dispossesses his opponent
+{3}[a_FB] 5:26: Ned_Flanders has found some space to work with
+{3}[a_rBP] 5:29: Ned_Flanders passes by hand
+{3}[h_lFP] 5:32: rfctigerarmy wins the ball in tight
+{3}[Contest] 5:39: Disposal is smothered and the ball spills free
+{3}[a_rBP] 5:43: Mister M wins the ball in tight
+{3}[Contest] 5:46: Disposal is smothered and the ball spills free
+{3}[a_rBP] 5:50: Tigerturbulance wins the ball in tight
+{3}[a_rBP] 5:53: rfctigerarmy has found some space to work with
+{3}[a_rW] 5:57: rfctigerarmy has found some space to work with
+{3}[a_rW] 6:00: rfctigerarmy has found some space to work with
+{3}[h_lW] 6:07: nahnah kicks the ball
+{3}[a_rW] 6:10: nahnah wins the ball in tight
+{3}[h_lW] 6:17: nahnah dispossesses his opponent
+{3}[a_rW] 6:21: U2tigers has found some space to work with
+{3}[a_rHFF] 6:24: U2tigers has found some space to work with
+{3}[h_lHBF] 6:27: spookism has found some space to work with
+{3}[h_lW] 6:34: spookism has found some space to work with
+{3}[h_lW] 6:37: nahnah has found some space to work with
+{3}[h_C] 6:44: nahnah kicks the ball
+{3}[h_C] 6:47: nahnah kicks the ball
+{3}[h_CHF] 6:54: Blacky takes a run and bounce
+{3}[a_CHB] 6:58: Blacky wins the ball in tight
+{3}[Contest] 7:05: Disposal is smothered and the ball spills free
+{3}[h_CHF] 7:09: TJASTA wins the ball in tight
+{3}[h_CHF] 7:12: CakeEater has found some space to work with
+{3}[h_CHF] 7:16: CakeEater passes by hand
+{3}[h_CHF] 7:19: Mister M wins the ball in tight
+{3}[Contest] 7:26: Disposal is smothered and the ball spills free
+{3}[a_CHB] 7:30: Mister M wins the ball in tight
+{3}[h_CHF] 7:33: CakeEater wins a free kick and the ball back
+{3}[h_FF] 7:37: CakeEater wins a free kick and the ball back
+{3}[h_FF] 7:40: CakeEater wins a free kick and the ball back
+{3}[h_rFP] 7:47: The Filth Wizard passes by hand
+--------------------
+GCR: 6.7.43
+FUR: 3.8.26
+--------------------
+{3}[h_rFP] 7:50: The Filth Wizard passes by hand
+{3}[h_C] 7:57: The Filth Wizard passes by hand
+{3}[h_C] 8:01: Marlowe gets the hit out
+{3}[h_C] 8:08: Blacky wins the ball in tight
+{3}[a_C] 8:12: Bastyy dispossesses his opponent
+{3}[Contest] 8:16: Disposal is smothered and the ball spills free
+{3}[h_C] 8:19: Marlowe wins the ball in tight
+{3}[h_C] 8:22: Marlowe has found some space to work with
+{3}[h_CHF] 8:26: Blacky passes by hand
+{3}[h_CHF] 8:29: CakeEater wins the ball in tight
+{3}[h_CHF] 8:36: CakeEater has found some space to work with
+{3}[a_C] 8:40: Tigerturbulance kicks the ball
+{3}[a_C] 8:43: Bastyy wins the ball in tight
+{3}[a_C] 8:50: spookism dispossesses his opponent
+{3}[h_C] 8:54: Blacky lays a hard tackle
+{3}[h_C] 8:57: Blacky has found some space to work with
+{3}[h_CHF] 9:00: Blacky takes a run and bounce
+{3}[a_CHB] 9:03: Bastyy dispossesses his opponent
+{3}[h_CHF] 9:10: CakeEater dispossesses his opponent
+{3}[a_CHB] 9:13: Mister M has found some space to work with
+{3}[a_C] 9:16: TJASTA kicks the ball
+{3}[a_C] 9:19: Bastyy wins the ball in tight
+{3}[h_C] 9:26: Blacky dispossesses his opponent
+{3}[a_C] 9:30: Bastyy dispossesses his opponent
+{3}[a_C] 9:33: Bastyy has found some space to work with
+{3}[a_CHF] 9:36: Bastyy has found some space to work with
+{3}[a_CHF] 9:39: GREENESHOOTS has found some space to work with
+{3}[h_CHF] 9:46: GREENESHOOTS has found some space to work with
+{3}[h_CHF] 9:49: GREENESHOOTS has found some space to work with
+{3}[h_FF] 9:56: GREENESHOOTS has found some space to work with
+--------------------
+GCR: 7.7.49
+FUR: 3.8.26
+--------------------
+{3}[h_FF] 9:59: The Filth Wizard has found some space to work with
+{3}[h_C] 10:06: The Filth Wizard has found some space to work with
+{3}[h_C] 10:09: Marlowe gets the hit out
+{3}[a_C] 10:16: spookism wins the ball in tight
+{3}[h_C] 10:20: Tigerturbulance lays a hard tackle
+{3}[Contest] 10:24: Disposal is smothered and the ball spills free
+{3}[a_C] 10:27: Disposal is smothered and the ball spills free
+{3}[a_CHF] 10:30: Disposal is smothered and the ball spills free
+{3}[a_CHF] 10:34: GREENESHOOTS has found some space to work with
+{3}[a_rHFF] 10:41: GREENESHOOTS passes by hand
+{3}[a_rHFF] 10:44: Wacky Tiger wins the ball in tight
+{3}[a_rHFF] 10:51: Wacky Tiger has found some space to work with
+{3}[a_rFP] 10:55: Wacky Tiger has found some space to work with
+{3}[a_rFP] 10:58: Wacky Tiger has found some space to work with
+{3}[Contest] 11:05: Wacky Tiger has found some space to work with
+{3}[h_lBP] 11:08: PMBangers passes by hand
+{3}[h_lBP] 11:15: spookism wins the ball in tight
+{3}[h_lBP] 11:22: PMBangers has found some space to work with
+{3}[h_FB] 11:26: PMBangers has found some space to work with
+{3}[h_FB] 11:29: PMBangers has found some space to work with
+{3}[h_CHF] 11:36: PMBangers has found some space to work with
+{3}[h_CHF] 11:39: PMBangers has found some space to work with
+{3}[h_lHFF] 11:46: CakeEater kicks the ball
+{3}[a_rHBF] 11:49: Mister M takes a strong mark
+{3}[h_lFP] 11:56: Mister M takes a strong mark
+{3}[h_lFP] 12:00: Mister M takes a strong mark
+{3}[a_rHBF] 12:07: U2tigers passes by hand
+{3}[a_rHBF] 12:10: Marlowe wins the ball in tight
+{3}[Contest] 12:17: Disposal is smothered and the ball spills free
+{3}[h_lHFF] 12:21: Tigerturbulance wins the ball in tight
+{3}[a_rHBF] 12:24: damicky dispossesses his opponent
+{3}[a_rHBF] 12:28: damicky has found some space to work with
+{3}[a_rW] 12:31: damicky passes by hand
+{3}[h_lW] 12:34: Sterge wins the ball in tight
+{3}[a_rW] 12:41: Sterge lays a hard tackle
+{3}[a_rW] 12:45: Sterge has found some space to work with
+{3}[a_rHFF] 12:48: Sterge has found some space to work with
+{3}[a_rHFF] 12:51: Wacky Tiger has found some space to work with
+{3}[a_CHF] 12:58: Wacky Tiger kicks the ball
+{3}[h_CHB] 13:01: GREENESHOOTS wins the ball in tight
+{3}[a_CHF] 13:08: GREENESHOOTS lays a hard tackle
+{3}[Contest] 13:12: Disposal is smothered and the ball spills free
+{3}[h_CHB] 13:15: Tigerturbulance wins the ball in tight
+{3}[h_CHB] 13:18: Engimal v3 has found some space to work with
+{3}[h_C] 13:22: Engimal v3 passes by hand
+{3}[a_C] 13:25: Blacky wins the ball in tight
+{3}[a_C] 13:32: Bastyy has found some space to work with
+{3}[a_lW] 13:36: Bastyy has found some space to work with
+{3}[a_lW] 13:39: Bastyy has found some space to work with
+{3}[a_C] 13:46: Bastyy has found some space to work with
+{3}[a_C] 13:49: Bastyy has found some space to work with
+{3}[a_rW] 13:56: Bastyy has found some space to work with
+{3}[a_rW] 13:59: Sterge has found some space to work with
+{3}[a_rHFF] 14:06: Sterge has found some space to work with
+{3}[a_rHFF] 14:09: Wacky Tiger has found some space to work with
+{3}[a_rFP] 14:16: Wacky Tiger has found some space to work with
+{3}[a_rFP] 14:19: Wacky Tiger has found some space to work with
+{3}[a_FF] 14:26: Wacky Tiger has found some space to work with
+{3}[a_FF] 14:29: Wacky Tiger has found some space to work with
+{3}[a_FF] 14:36: tigland kicks the ball
+{3}[a_FF] 14:39: tigland wins the ball in tight
+{3}[h_FB] 14:46: Fitzey lays a hard tackle
+{3}[a_FF] 14:50: tigland dispossesses his opponent
+{3}[a_FF] 14:53: tigland has found some space to work with
+{3}[a_lFP] 14:56: tigland has found some space to work with
+{3}[a_lFP] 14:59: tigland has found some space to work with
+{3}[a_FF] 15:06: Jackbero kicks the ball
+{3}[h_FB] 15:09: tigland takes a strong mark
+{3}[h_CHB] 15:16: Fitzey passes by hand
+{3}[h_CHB] 15:20: Engimal v3 wins the ball in tight
+{3}[h_CHB] 15:27: Engimal v3 has found some space to work with
+{3}[Contest] 15:31: Tigerturbulance kicks the ball
+{3}[h_lHBF] 15:34: Tigerturbulance kicks the ball
+{3}[h_lHBF] 15:41: MrPremiership wins the ball in tight
+{3}[a_rHFF] 15:48: Wacky Tiger lays a hard tackle
+{3}[a_rHFF] 15:52: Wacky Tiger has found some space to work with
+{3}[a_rFP] 15:55: Wacky Tiger has found some space to work with
+{3}[a_rFP] 15:58: Wacky Tiger has found some space to work with
+{3}[a_rFP] 16:05: Wacky Tiger has found some space to work with
+--------------------
+GCR: 7.7.49
+FUR: 4.8.32
+--------------------
+{3}[a_rFP] 16:08: Wacky Tiger has found some space to work with
+{3}[a_C] 16:15: Wacky Tiger has found some space to work with
+{3}[h_C] 16:18: Marlowe gets the hit out
+{3}[h_C] 16:25: Blacky wins the ball in tight
+{3}[a_C] 16:29: Tigerturbulance lays a hard tackle
+{3}[h_C] 16:33: Tigerturbulance dispossesses his opponent
+{3}[h_C] 16:36: spookism has found some space to work with
+{3}[h_rW] 16:39: spookism has found some space to work with
+{3}[h_rW] 16:42: spookism has found some space to work with
+{3}[h_rHFF] 16:49: GreyCrow takes a run and bounce
+{3}[a_lHBF] 16:52: U2tigers lays a hard tackle
+{3}[Contest] 16:59: Disposal is smothered and the ball spills free
+{3}[a_lHBF] 17:02: spookism wins the ball in tight
+{3}[a_lHBF] 17:05: Tiger2709 has found some space to work with
+{3}[a_lW] 17:09: U2tigers passes by hand
+{3}[a_lW] 17:12: Elton Johns Wig wins the ball in tight
+{3}[Contest] 17:19: Disposal is smothered and the ball spills free
+{3}[h_rW] 17:23: Mister M wins the ball in tight
+{3}[a_lW] 17:26: Paddles_ dispossesses his opponent
+{3}[a_lW] 17:30: Elton Johns Wig has found some space to work with
+{3}[a_lHFF] 17:33: Elton Johns Wig has found some space to work with
+--------------------
+GCR: 7.7.49
+FUR: 4.9.33
+--------------------
+{3}[a_lHFF] 17:36: Rioli8217 has found some space to work with
+{3}[a_FF] 17:43: Rioli8217 kicks the ball
+{3}[h_rBP] 17:46: Fitzey passes by hand
+{3}[h_rBP] 17:53: ShaunDuggan wins the ball in tight
+{3}[h_rBP] 18:00: ShaunDuggan has found some space to work with
+{3}[h_rHBF] 18:04: spookism passes by hand
+{3}[h_rHBF] 18:07: Smartys Power wins the ball in tight
+{3}[a_lHFF] 18:14: Rioli8217 lays a hard tackle
+{3}[a_lHFF] 18:18: Rioli8217 has found some space to work with
+{3}[a_lFP] 18:21: Rioli8217 has found some space to work with
+{3}[a_lFP] 18:24: Jackbero has found some space to work with
+{3}[Contest] 18:31: Jackbero kicks the ball
+{3}[h_rBP] 18:34: Paddles_ wins the ball in tight
+{3}[a_lFP] 18:41: Jackbero dispossesses his opponent
+{3}[h_rBP] 18:45: ShaunDuggan dispossesses his opponent
+{3}[h_rBP] 18:48: ShaunDuggan has found some space to work with
+{3}[h_rHBF] 18:51: ShaunDuggan kicks the ball
+{3}[h_rHBF] 18:54: Smartys Power wins the ball in tight
+{3}[h_rHBF] 19:01: Smartys Power has found some space to work with
+{3}[h_rFP] 19:05: Smartys Power kicks the ball
+{3}[h_rFP] 19:08: MC Bad Genius wins the ball in tight
+{3}[h_rFP] 19:15: MC Bad Genius has found some space to work with
+{3}[h_rFP] 19:19: MC Bad Genius passes by hand
+{3}[a_lBP] 19:22: MC Bad Genius wins the ball in tight
+{3}[a_lBP] 19:29: Brunswick Trap King has found some space to work with
+{3}[a_lHBF] 19:33: Brunswick Trap King kicks the ball
+{3}[a_lHBF] 19:36: Tiger2709 takes a strong mark
+{3}[a_lW] 19:43: Tiger2709 takes a strong mark
+{3}[a_lW] 19:47: Elton Johns Wig has found some space to work with
+{3}[Contest] 19:54: Elton Johns Wig passes by hand
+{3}[a_lW] 19:57: Elton Johns Wig passes by hand
+{3}[a_lHFF] 20:04: Elton Johns Wig takes a run and bounce
+{3}[a_lHFF] 20:08: Elton Johns Wig has found some space to work with
+{3}[Contest] 20:15: Elton Johns Wig has found some space to work with
+{3}[h_rHFF] 20:18: Paddles_ kicks the ball
+{3}[a_lHBF] 20:25: spookism wins the ball in tight
+{3}[h_rHFF] 20:32: Tigerturbulance dispossesses his opponent
+{3}[h_rHFF] 20:36: Marlowe dispossesses his opponent
+{3}[h_rHFF] 20:39: krakouers85 has found some space to work with
+{3}[Contest] 20:42: krakouers85 has found some space to work with
+{3}[h_rHFF] 20:45: Tiger2709 wins the ball in tight
+{3}[a_lHBF] 20:52: Tiger2709 dispossesses his opponent
+{3}[h_rHFF] 20:56: krakouers85 lays a hard tackle
+--------------------
+GCR: 7.8.50
+FUR: 4.9.33
+--------------------
+{3}[h_rHFF] 20:59: Paddles_ has found some space to work with
+{3}[h_FF] 21:02: krakouers85 kicks the ball
+{3}[a_FB] 21:05: krakouers85 kicks the ball
+{3}[h_FF] 21:12: krakouers85 kicks the ball
+{3}[h_rFP] 21:19: krakouers85 kicks the ball
+{3}[h_rFP] 21:22: krakouers85 kicks the ball
+{3}[Contest] 21:29: krakouers85 kicks the ball
+{3}[h_rFP] 21:32: Paddles_ wins the ball in tight
+{3}[a_lBP] 21:39: Mister M dispossesses his opponent
+{3}[a_lBP] 21:43: Mister M lays a hard tackle
+{3}[a_lBP] 21:46: Brunswick Trap King has found some space to work with
+{3}[Contest] 21:49: Brunswick Trap King kicks the ball
+{3}[h_rFP] 21:52: spookism wins the ball in tight
+{3}[a_lBP] 21:59: Tigerturbulance lays a hard tackle
+{3}[a_lBP] 22:03: Brunswick Trap King has found some space to work with
+{3}[a_lBP] 22:06: Brunswick Trap King passes by hand
+{3}[a_lBP] 22:09: Brunswick Trap King passes by hand
+{3}[a_lHBF] 22:16: Brunswick Trap King passes by hand
+{3}[a_lHBF] 22:20: Tiger2709 has found some space to work with
+{3}[a_CHB] 22:27: Tiger2709 has found some space to work with
+{3}[a_CHB] 22:30: Tiger2709 has found some space to work with
+{3}[a_FF] 22:37: Tiger2709 has found some space to work with
+{3}[a_FF] 22:40: Tiger2709 has found some space to work with
+{3}[h_FB] 22:47: Fitzey kicks the ball
+{3}[h_FB] 22:50: Fitzey wins the ball in tight
+{3}[a_FF] 22:57: rfctigerarmy lays a hard tackle
+{3}[h_FB] 23:01: Paddles_ dispossesses his opponent
+--------------------
+GCR: 7.8.50
+FUR: 5.9.39
+--------------------
+{3}[a_FF] 23:04: Mister M has found some space to work with
+{3}[a_C] 23:07: Mister M has found some space to work with
+{3}[h_C] 23:10: Marlowe gets the hit out
+{3}[a_C] 23:17: Blacky wins the ball in tight
+{3}[h_C] 23:21: Blacky lays a hard tackle
+{3}[Contest] 23:25: Disposal is smothered and the ball spills free
+{3}[a_C] 23:28: spookism wins the ball in tight
+{3}[a_C] 23:31: Bastyy has found some space to work with
+{3}[a_rW] 23:35: Bastyy passes by hand
+{3}[h_lW] 23:38: Sterge wins the ball in tight
+{3}[a_rW] 23:45: Mister M has found some space to work with
+{3}[h_lHFF] 23:49: Mister M has found some space to work with
+{3}[h_lHFF] 23:52: Ulahoopski has found some space to work with
+{3}[h_lFP] 23:59: Ulahoopski takes a run and bounce
+--------------------
+GCR: 8.8.56
+FUR: 5.9.39
+--------------------
+{3}[h_lFP] 24:02: Ulahoopski takes a run and bounce
+{3}[h_C] 24:09: Dancing Potato kicks the ball
+{3}[a_C] 24:13: U2tigers gets the hit out
+{3}[a_C] 24:20: Marlowe wins the ball in tight
+{3}[h_C] 24:24: U2tigers lays a hard tackle
+{3}[h_C] 24:28: spookism dispossesses his opponent
+{3}[h_C] 24:31: Blacky has found some space to work with
+{3}[h_rW] 24:34: Blacky passes by hand
+{3}[a_lW] 24:37: GreyCrow wins the ball in tight
+{3}[h_rW] 24:44: GreyCrow lays a hard tackle
+{3}[a_lW] 24:48: Elton Johns Wig lays a hard tackle
+{3}[a_lW] 24:51: Elton Johns Wig has found some space to work with
+{3}[h_rHFF] 24:54: GreyCrow takes a run and bounce
+{3}[a_lHBF] 24:57: GreyCrow wins the ball in tight
+{3}[Contest] 25:04: Disposal is smothered and the ball spills free
+{3}[a_lHBF] 25:08: spookism wins the ball in tight
+{3}[h_rHFF] 25:11: krakouers85 dispossesses his opponent
+{3}[h_rHFF] 25:15: krakouers85 has found some space to work with
+{3}[h_rHFF] 25:18: krakouers85 passes by hand
+{3}[h_rHFF] 25:21: krakouers85 wins the ball in tight
+{3}[a_lHBF] 25:28: Tiger2709 has found some space to work with
+{3}[a_lHBF] 25:32: Tiger2709 has found some space to work with
+{3}[a_lHBF] 25:35: Tiger2709 has found some space to work with
+{3}[a_lW] 25:42: Tiger2709 passes by hand
+{3}[a_lW] 25:45: Elton Johns Wig wins the ball in tight
+{3}[Contest] 25:52: Disposal is smothered and the ball spills free
+{3}[a_lW] 25:56: Mister M wins the ball in tight
+{3}[h_rW] 25:59: GreyCrow dispossesses his opponent
+{3}[h_rW] 26:03: spookism has found some space to work with
+{3}[h_rHFF] 26:06: spookism has found some space to work with
+{3}[h_rHFF] 26:09: krakouers85 has found some space to work with
+{3}[h_rFP] 26:16: krakouers85 passes by hand
+{3}[h_rFP] 26:19: Mister M wins the ball in tight
+{3}[h_rFP] 26:26: MC Bad Genius has found some space to work with
+{3}[a_lHBF] 26:30: Tigerturbulance passes by hand
+{3}[h_rHFF] 26:33: Tiger2709 wins the ball in tight
+{3}[a_lHBF] 26:40: Tiger2709 dispossesses his opponent
+{3}[a_lHBF] 26:44: Tiger2709 has found some space to work with
+{3}[a_lW] 26:47: Mister M takes a run and bounce
+{3}[a_lW] 26:50: Mister M has found some space to work with
+====================
+END OF QUARTER 3
+GCR: 8.8.56
+FUR: 5.9.39
+====================
+{3}[a_C] 26:57: Mister M has found some space to work with
+{4}[a_C] 27:00: U2tigers gets the hit out
+{4}[h_C] 0:00: Bastyy wins the ball in tight
+{4}[Contest] 0:04: Disposal is smothered and the ball spills free
+{4}[h_C] 0:08: Paddles_ wins the ball in tight
+{4}[Contest] 0:11: Disposal is smothered and the ball spills free
+{4}[h_C] 0:15: spookism wins the ball in tight
+{4}[a_C] 0:18: Bastyy has found some space to work with
+{4}[a_FF] 0:22: Bastyy kicks the ball
+{4}[a_FF] 0:25: rfctigerarmy wins the ball in tight
+{4}[a_FF] 0:32: rfctigerarmy has found some space to work with
+{4}[a_FF] 0:36: rfctigerarmy passes by hand
+{4}[a_FF] 0:39: Fitzey wins the ball in tight
+--------------------
+GCR: 8.8.56
+FUR: 6.9.45
+--------------------
+{4}[a_FF] 0:46: rfctigerarmy has found some space to work with
+{4}[a_C] 0:50: rfctigerarmy kicks the ball
+{4}[a_C] 0:53: U2tigers gets the hit out
+{4}[h_C] 1:00: Bastyy wins the ball in tight
+{4}[a_C] 1:04: Bastyy dispossesses his opponent
+{4}[a_C] 1:08: Bastyy has found some space to work with
+{4}[a_C] 1:11: Bastyy has found some space to work with
+{4}[a_C] 1:14: Bastyy has found some space to work with
+{4}[a_C] 1:21: Bastyy kicks the ball
+{4}[h_C] 1:24: Bastyy wins the ball in tight
+{4}[h_C] 1:31: Blacky has found some space to work with
+{4}[h_CHF] 1:35: Blacky has found some space to work with
+{4}[h_CHF] 1:38: CakeEater has found some space to work with
+{4}[h_FF] 1:45: CakeEater has found some space to work with
+{4}[h_FF] 1:48: CakeEater has found some space to work with
+{4}[a_CHB] 1:55: Mister M kicks the ball
+{4}[a_CHB] 1:58: damicky takes a strong mark
+{4}[a_C] 2:05: damicky passes by hand
+{4}[a_C] 2:09: damicky passes by hand
+{4}[a_C] 2:16: Bastyy passes by hand
+{4}[h_C] 2:20: Bastyy wins the ball in tight
+{4}[a_C] 2:27: Bastyy wins a free kick and the ball back
+{4}[a_CHF] 2:31: Bastyy passes by hand
+{4}[a_CHF] 2:34: GREENESHOOTS wins the ball in tight
+{4}[h_CHB] 2:41: grumbleguts lays a hard tackle
+{4}[a_CHF] 2:45: GREENESHOOTS dispossesses his opponent
+{4}[a_CHF] 2:48: GREENESHOOTS has found some space to work with
+{4}[a_rHFF] 2:51: GREENESHOOTS has found some space to work with
+{4}[a_rHFF] 2:54: GREENESHOOTS has found some space to work with
+{4}[Contest] 3:01: Wacky Tiger passes by hand
+{4}[h_lHBF] 3:04: Mister M wins the ball in tight
+{4}[a_rHFF] 3:11: Paddles_ dispossesses his opponent
+{4}[a_rHFF] 3:15: Wacky Tiger has found some space to work with
+{4}[a_rFP] 3:18: Wacky Tiger passes by hand
+{4}[a_rFP] 3:21: Lynchy04 wins the ball in tight
+{4}[h_lBP] 3:28: PMBangers dispossesses his opponent
+{4}[a_rFP] 3:32: Lynchy04 lays a hard tackle
+{4}[a_rFP] 3:35: Mister M has found some space to work with
+{4}[a_FF] 3:38: Lynchy04 kicks the ball
+{4}[a_FF] 3:41: rfctigerarmy takes a strong mark
+{4}[a_lFP] 3:48: rfctigerarmy takes a strong mark
+{4}[h_rBP] 3:52: rfctigerarmy takes a strong mark
+{4}[h_rBP] 3:59: ShaunDuggan kicks the ball
+{4}[a_lFP] 4:02: Paddles_ takes a strong mark
+{4}[Contest] 4:09: Jackbero passes by hand
+{4}[a_lFP] 4:13: Mister M wins the ball in tight
+--------------------
+GCR: 8.8.56
+FUR: 7.9.51
+--------------------
+{4}[a_lFP] 4:20: Jackbero has found some space to work with
+{4}[a_C] 4:24: Jackbero kicks the ball
+{4}[a_C] 4:27: U2tigers gets the hit out
+{4}[a_C] 4:34: TJASTA wins the ball in tight
+{4}[h_C] 4:38: spookism lays a hard tackle
+{4}[a_C] 4:42: spookism dispossesses his opponent
+{4}[a_C] 4:45: TJASTA has found some space to work with
+{4}[a_CHF] 4:48: TJASTA has found some space to work with
+{4}[a_CHF] 4:51: GREENESHOOTS has found some space to work with
+{4}[h_C] 4:58: GREENESHOOTS has found some space to work with
+{4}[h_C] 5:01: Blacky has found some space to work with
+{4}[h_lW] 5:08: Blacky has found some space to work with
+{4}[h_lW] 5:11: nahnah has found some space to work with
+{4}[h_lHFF] 5:18: nahnah has found some space to work with
+{4}[h_lHFF] 5:21: Ulahoopski has found some space to work with
+{4}[h_CHF] 5:28: Ulahoopski passes by hand
+{4}[h_CHF] 5:31: CakeEater wins the ball in tight
+{4}[a_CHB] 5:38: damicky lays a hard tackle
+{4}[Contest] 5:42: Disposal is smothered and the ball spills free
+{4}[h_CHF] 5:45: Mister M wins the ball in tight
+{4}[h_CHF] 5:48: CakeEater has found some space to work with
+{4}[h_FF] 5:52: CakeEater passes by hand
+{4}[h_FF] 5:55: CakeEater passes by hand
+{4}[h_rFP] 6:02: CakeEater passes by hand
+--------------------
+GCR: 9.8.62
+FUR: 7.9.51
+--------------------
+{4}[h_rFP] 6:06: MC Bad Genius has found some space to work with
+{4}[h_C] 6:13: MC Bad Genius kicks the ball
+{4}[h_C] 6:16: Marlowe gets the hit out
+{4}[h_C] 6:23: Tigerturbulance wins the ball in tight
+{4}[h_C] 6:27: spookism has found some space to work with
+{4}[h_CHF] 6:31: Blacky kicks the ball
+{4}[a_CHB] 6:34: CakeEater wins the ball in tight
+{4}[Contest] 6:41: Disposal is smothered and the ball spills free
+{4}[a_CHB] 6:45: damicky wins the ball in tight
+{4}[h_CHF] 6:48: CakeEater dispossesses his opponent
+{4}[h_CHF] 6:52: CakeEater has found some space to work with
+{4}[h_FF] 6:55: CakeEater takes a run and bounce
+{4}[h_FF] 6:58: CakeEater wins the ball in tight
+{4}[h_FF] 7:05: damicky dispossesses his opponent
+{4}[a_FB] 7:09: Ned_Flanders dispossesses his opponent
+{4}[a_FB] 7:12: Ned_Flanders has found some space to work with
+{4}[a_CHB] 7:15: Ned_Flanders has found some space to work with
+{4}[a_CHB] 7:18: damicky has found some space to work with
+{4}[a_C] 7:25: damicky passes by hand
+{4}[a_C] 7:28: TJASTA wins the ball in tight
+{4}[a_C] 7:35: TJASTA has found some space to work with
+{4}[a_CHF] 7:39: TJASTA passes by hand
+{4}[h_CHB] 7:42: GREENESHOOTS wins the ball in tight
+{4}[Contest] 7:49: Disposal is smothered and the ball spills free
+{4}[a_CHF] 7:53: Tigerturbulance wins the ball in tight
+{4}[Contest] 7:56: Disposal is smothered and the ball spills free
+{4}[h_CHB] 8:00: Paddles_ wins the ball in tight
+{4}[h_CHB] 8:03: grumbleguts has found some space to work with
+{4}[h_FF] 8:07: grumbleguts kicks the ball
+--------------------
+GCR: 9.9.63
+FUR: 7.9.51
+--------------------
+{4}[h_FF] 8:10: The Filth Wizard takes a strong mark
+{4}[h_FF] 8:17: The Filth Wizard takes a strong mark
+{4}[a_CHB] 8:21: Ned_Flanders takes a run and bounce
+{4}[a_CHB] 8:28: Ned_Flanders wins the ball in tight
+{4}[h_CHF] 8:35: CakeEater dispossesses his opponent
+{4}[a_CHB] 8:39: damicky dispossesses his opponent
+{4}[a_CHB] 8:42: damicky has found some space to work with
+{4}[a_rHBF] 8:45: damicky has found some space to work with
+{4}[h_lHFF] 8:48: spookism has found some space to work with
+{4}[h_lFP] 8:55: spookism takes a run and bounce
+{4}[h_lFP] 8:58: spookism wins the ball in tight
+{4}[a_rBP] 9:05: Tigerturbulance lays a hard tackle
+--------------------
+GCR: 9.10.64
+FUR: 7.9.51
+--------------------
+{4}[h_lFP] 9:09: Dancing Potato wins a free kick and the ball back
+{4}[h_FF] 9:12: Dancing Potato kicks the ball
+{4}[a_lBP] 9:15: Marlowe passes by hand
+{4}[h_rFP] 9:22: Engimal v3 wins the ball in tight
+{4}[a_lBP] 9:29: Mister M dispossesses his opponent
+{4}[Contest] 9:33: Disposal is smothered and the ball spills free
+{4}[a_lBP] 9:36: spookism wins the ball in tight
+{4}[a_lBP] 9:39: Brunswick Trap King has found some space to work with
+{4}[a_lHBF] 9:43: Brunswick Trap King has found some space to work with
+{4}[a_lHBF] 9:46: Tiger2709 has found some space to work with
+{4}[Contest] 9:53: Tiger2709 has found some space to work with
+{4}[a_lHBF] 9:56: Tigerturbulance wins the ball in tight
+{4}[h_rHFF] 10:03: krakouers85 dispossesses his opponent
+{4}[h_rHFF] 10:07: krakouers85 has found some space to work with
+{4}[h_rHFF] 10:10: krakouers85 has found some space to work with
+{4}[h_rHFF] 10:13: krakouers85 has found some space to work with
+{4}[Contest] 10:20: krakouers85 has found some space to work with
+{4}[a_lHBF] 10:23: U2tigers wins the ball in tight
+{4}[h_rHFF] 10:30: krakouers85 dispossesses his opponent
+{4}[a_lHBF] 10:34: Tiger2709 dispossesses his opponent
+{4}[a_lHBF] 10:37: Tiger2709 has found some space to work with
+{4}[a_lHBF] 10:40: Tiger2709 kicks the ball
+{4}[a_lHBF] 10:43: Tiger2709 wins the ball in tight
+{4}[h_rHFF] 10:50: krakouers85 dispossesses his opponent
+{4}[a_lHBF] 10:54: Tiger2709 dispossesses his opponent
+{4}[a_lHBF] 10:57: Tiger2709 has found some space to work with
+{4}[a_lW] 11:00: Tiger2709 takes a run and bounce
+{4}[h_rW] 11:03: krakouers85 dispossesses his opponent
+{4}[a_lW] 11:10: Elton Johns Wig wins a free kick and the ball back
+{4}[a_lHFF] 11:13: Elton Johns Wig takes a run and bounce
+{4}[Contest] 11:16: Disposal is smothered and the ball spills free
+{4}[a_lHFF] 11:23: Marlowe wins the ball in tight
+{4}[h_rHBF] 11:26: Smartys Power lays a hard tackle
+--------------------
+GCR: 9.10.64
+FUR: 7.10.52
+--------------------
+{4}[h_rHBF] 11:30: Smartys Power has found some space to work with
+{4}[a_FF] 11:33: Mister M kicks the ball
+{4}[h_CHB] 11:36: Engimal v3 passes by hand
+{4}[a_CHF] 11:43: grumbleguts wins the ball in tight
+{4}[h_CHB] 11:50: grumbleguts dispossesses his opponent
+{4}[h_CHB] 11:54: grumbleguts has found some space to work with
+{4}[h_C] 11:57: grumbleguts has found some space to work with
+{4}[h_C] 12:00: Blacky has found some space to work with
+{4}[h_C] 12:07: Blacky has found some space to work with
+{4}[a_C] 12:10: U2tigers has found some space to work with
+{4}[a_CHF] 12:17: Tigerturbulance kicks the ball
+{4}[a_CHF] 12:20: GREENESHOOTS wins the ball in tight
+{4}[h_CHB] 12:27: grumbleguts has found some space to work with
+{4}[h_lHBF] 12:31: grumbleguts has found some space to work with
+{4}[h_lHBF] 12:34: grumbleguts has found some space to work with
+{4}[h_CHB] 12:41: grumbleguts has found some space to work with
+{4}[h_CHB] 12:44: grumbleguts has found some space to work with
+{4}[h_C] 12:51: Dancing Potato passes by hand
+{4}[a_C] 12:54: Blacky wins the ball in tight
+{4}[h_C] 13:01: Blacky dispossesses his opponent
+{4}[Contest] 13:05: Disposal is smothered and the ball spills free
+{4}[a_C] 13:08: Disposal is smothered and the ball spills free
+{4}[a_CHF] 13:11: TJASTA kicks the ball
+{4}[a_CHF] 13:15: GREENESHOOTS wins the ball in tight
+{4}[a_CHF] 13:22: GREENESHOOTS has found some space to work with
+{4}[h_C] 13:26: spookism takes a run and bounce
+{4}[h_C] 13:29: spookism takes a run and bounce
+{4}[h_lW] 13:36: Blacky passes by hand
+{4}[h_lW] 13:40: nahnah wins the ball in tight
+{4}[a_rW] 13:47: Sterge dispossesses his opponent
+{4}[a_rW] 13:51: Sterge has found some space to work with
+{4}[a_rW] 13:54: Sterge has found some space to work with
+{4}[h_lW] 13:57: Marlowe has found some space to work with
+{4}[a_rHFF] 14:04: U2tigers takes a run and bounce
+{4}[h_lHBF] 14:07: Marlowe lays a hard tackle
+{4}[a_rHFF] 14:14: Tigerturbulance has found some space to work with
+{4}[a_rHFF] 14:17: Wacky Tiger passes by hand
+{4}[a_rHFF] 14:20: Tigerturbulance wins the ball in tight
+{4}[h_lHBF] 14:27: spookism wins a free kick and the ball back
+{4}[h_lHFF] 14:31: spookism wins a free kick and the ball back
+{4}[h_lHFF] 14:34: spookism wins a free kick and the ball back
+{4}[h_lFP] 14:41: spookism wins a free kick and the ball back
+--------------------
+GCR: 10.10.70
+FUR: 7.10.52
+--------------------
+{4}[h_lFP] 14:44: GreyCrow has found some space to work with
+{4}[h_C] 14:51: GreyCrow has found some space to work with
+{4}[a_C] 14:54: U2tigers gets the hit out
+{4}[a_C] 15:01: TJASTA wins the ball in tight
+{4}[h_C] 15:05: spookism dispossesses his opponent
+{4}[Contest] 15:09: Disposal is smothered and the ball spills free
+{4}[a_C] 15:12: Marlowe wins the ball in tight
+{4}[a_C] 15:15: TJASTA has found some space to work with
+{4}[a_CHF] 15:19: TJASTA has found some space to work with
+--------------------
+GCR: 10.10.70
+FUR: 8.10.58
+--------------------
+{4}[a_CHF] 15:22: GREENESHOOTS has found some space to work with
+{4}[a_C] 15:29: GREENESHOOTS kicks the ball
+{4}[h_C] 15:32: Marlowe gets the hit out
+{4}[a_C] 15:39: Blacky wins the ball in tight
+{4}[h_C] 15:43: Blacky dispossesses his opponent
+{4}[Contest] 15:47: Disposal is smothered and the ball spills free
+{4}[h_C] 15:50: U2tigers wins the ball in tight
+{4}[h_C] 15:53: Blacky has found some space to work with
+{4}[h_C] 15:57: Blacky has found some space to work with
+{4}[h_C] 16:00: Blacky has found some space to work with
+{4}[h_rW] 16:07: Blacky passes by hand
+{4}[a_lW] 16:10: Mister M wins the ball in tight
+{4}[Contest] 16:17: Disposal is smothered and the ball spills free
+{4}[a_lW] 16:21: Disposal is smothered and the ball spills free
+{4}[a_lFP] 16:24: Elton Johns Wig kicks the ball
+{4}[a_lFP] 16:28: Jackbero wins the ball in tight
+{4}[Contest] 16:35: Disposal is smothered and the ball spills free
+{4}[a_lFP] 16:39: Engimal v3 wins the ball in tight
+{4}[a_lFP] 16:42: Jackbero has found some space to work with
+{4}[Contest] 16:46: Jackbero has found some space to work with
+{4}[h_rBP] 16:49: Engimal v3 wins the ball in tight
+{4}[a_lFP] 16:56: Jackbero wins a free kick and the ball back
+{4}[a_lFP] 17:00: Jackbero passes by hand
+{4}[a_lFP] 17:03: Jackbero wins the ball in tight
+{4}[Contest] 17:10: Disposal is smothered and the ball spills free
+{4}[a_lFP] 17:14: Engimal v3 wins the ball in tight
+{4}[h_rBP] 17:17: ShaunDuggan dispossesses his opponent
+{4}[h_rBP] 17:21: ShaunDuggan has found some space to work with
+{4}[h_rHBF] 17:24: ShaunDuggan has found some space to work with
+{4}[h_rHBF] 17:27: ShaunDuggan has found some space to work with
+{4}[h_rW] 17:34: Smartys Power kicks the ball
+{4}[h_rW] 17:37: boncer34 takes a strong mark
+{4}[Contest] 17:44: boncer34 kicks the ball
+{4}[h_rW] 17:48: Marlowe wins the ball in tight
+{4}[h_rW] 17:55: boncer34 has found some space to work with
+{4}[h_rW] 17:59: boncer34 passes by hand
+{4}[h_rW] 18:02: boncer34 passes by hand
+{4}[h_C] 18:09: boncer34 passes by hand
+{4}[h_C] 18:13: Blacky has found some space to work with
+{4}[h_CHF] 18:20: Blacky has found some space to work with
+{4}[h_CHF] 18:23: CakeEater has found some space to work with
+{4}[h_FF] 18:30: CakeEater passes by hand
+{4}[h_FF] 18:33: spookism wins the ball in tight
+{4}[Contest] 18:40: Disposal is smothered and the ball spills free
+{4}[h_FF] 18:44: Engimal v3 wins the ball in tight
+{4}[a_FB] 18:47: Ned_Flanders dispossesses his opponent
+{4}[a_FB] 18:51: Ned_Flanders has found some space to work with
+{4}[a_CHB] 18:54: Ned_Flanders takes a run and bounce
+{4}[h_CHF] 18:57: Ned_Flanders wins the ball in tight
+{4}[a_CHB] 19:04: damicky dispossesses his opponent
+{4}[h_CHF] 19:08: CakeEater dispossesses his opponent
+{4}[h_CHF] 19:11: CakeEater has found some space to work with
+{4}[h_CHF] 19:14: CakeEater passes by hand
+{4}[a_CHB] 19:17: CakeEater wins the ball in tight
+{4}[Contest] 19:24: Disposal is smothered and the ball spills free
+{4}[a_CHB] 19:28: spookism wins the ball in tight
+{4}[h_CHF] 19:31: CakeEater dispossesses his opponent
+{4}[h_CHF] 19:35: CakeEater has found some space to work with
+{4}[h_rHFF] 19:38: CakeEater passes by hand
+{4}[h_rHFF] 19:41: CakeEater passes by hand
+{4}[a_lW] 19:48: CakeEater passes by hand
+{4}[a_lW] 19:52: CakeEater passes by hand
+{4}[a_lHFF] 19:59: Elton Johns Wig passes by hand
+{4}[a_lHFF] 20:02: crazywildhorse wins the ball in tight
+{4}[Contest] 20:09: Disposal is smothered and the ball spills free
+{4}[a_lHFF] 20:13: Engimal v3 wins the ball in tight
+{4}[h_rHBF] 20:16: Mister M wins a free kick and the ball back
+{4}[h_CHB] 20:20: Smartys Power kicks the ball
+{4}[a_CHF] 20:23: Dancing Potato wins the ball in tight
+{4}[a_CHF] 20:30: GREENESHOOTS has found some space to work with
+{4}[a_FF] 20:34: GREENESHOOTS has found some space to work with
+{4}[a_FF] 20:37: GREENESHOOTS has found some space to work with
+{4}[a_rFP] 20:44: GREENESHOOTS has found some space to work with
+{4}[a_rFP] 20:47: GREENESHOOTS has found some space to work with
+{4}[Contest] 20:54: GREENESHOOTS has found some space to work with
+{4}[h_lHBF] 20:57: PMBangers takes a run and bounce
+{4}[a_rHFF] 21:04: PMBangers dispossesses his opponent
+{4}[h_lHBF] 21:11: MrPremiership dispossesses his opponent
+{4}[h_lHBF] 21:14: MrPremiership has found some space to work with
+{4}[h_lW] 21:17: MrPremiership takes a run and bounce
+{4}[a_rW] 21:20: MrPremiership wins the ball in tight
+{4}[h_lW] 21:27: nahnah dispossesses his opponent
+{4}[Contest] 21:31: Disposal is smothered and the ball spills free
+{4}[a_rW] 21:34: spookism wins the ball in tight
+{4}[a_rW] 21:37: Sterge has found some space to work with
+{4}[a_rHFF] 21:41: Mister M takes a run and bounce
+{4}[h_lHBF] 21:44: Engimal v3 dispossesses his opponent
+{4}[a_rHFF] 21:51: Engimal v3 wins a free kick and the ball back
+{4}[a_rFP] 21:54: Wacky Tiger passes by hand
+{4}[h_lBP] 21:57: Lynchy04 wins the ball in tight
+{4}[Contest] 22:04: Disposal is smothered and the ball spills free
+{4}[a_rFP] 22:08: Mister M wins the ball in tight
+{4}[h_lBP] 22:11: Marlowe dispossesses his opponent
+{4}[h_lBP] 22:15: PMBangers has found some space to work with
+{4}[h_lBP] 22:18: PMBangers has found some space to work with
+{4}[h_lBP] 22:21: PMBangers has found some space to work with
+{4}[Contest] 22:28: Marlowe kicks the ball
+{4}[h_lHFF] 22:31: Mister M wins the ball in tight
+{4}[a_rHBF] 22:38: tigland wins a free kick and the ball back
+{4}[Contest] 22:42: tigland passes by hand
+{4}[h_lHFF] 22:45: tigland wins the ball in tight
+{4}[a_rHBF] 22:52: tigland dispossesses his opponent
+{4}[h_lHFF] 22:56: tigland dispossesses his opponent
+{4}[h_lHFF] 22:59: Paddles_ has found some space to work with
+{4}[Contest] 23:02: Paddles_ has found some space to work with
+{4}[h_lHFF] 23:05: Marlowe wins the ball in tight
+{4}[Contest] 23:12: Disposal is smothered and the ball spills free
+{4}[h_lHFF] 23:16: Bastyy wins the ball in tight
+{4}[h_lHFF] 23:19: Paddles_ has found some space to work with
+{4}[h_lFP] 23:23: Paddles_ kicks the ball
+--------------------
+GCR: 11.10.76
+FUR: 8.10.58
+--------------------
+{4}[h_lFP] 23:26: GreyCrow takes a strong mark
+{4}[h_C] 23:33: GreyCrow kicks the ball
+{4}[h_C] 23:37: Marlowe gets the hit out
+{4}[a_C] 23:44: TJASTA wins the ball in tight
+{4}[h_C] 23:48: Blacky lays a hard tackle
+{4}[h_C] 23:52: spookism dispossesses his opponent
+{4}[h_C] 23:55: Blacky has found some space to work with
+{4}[h_CHF] 23:58: Blacky takes a run and bounce
+{4}[a_CHB] 24:01: TJASTA lays a hard tackle
+{4}[Contest] 24:08: Disposal is smothered and the ball spills free
+{4}[a_CHB] 24:11: Tigerturbulance wins the ball in tight
+{4}[a_CHB] 24:14: damicky has found some space to work with
+{4}[a_C] 24:18: damicky has found some space to work with
+{4}[a_C] 24:21: damicky has found some space to work with
+{4}[a_rW] 24:28: damicky has found some space to work with
+{4}[a_rW] 24:31: damicky has found some space to work with
+{4}[a_rHFF] 24:38: Sterge kicks the ball
+{4}[h_lHBF] 24:41: Tigerturbulance wins the ball in tight
+{4}[h_lHBF] 24:48: MrPremiership has found some space to work with
+{4}[h_lFP] 24:52: MrPremiership has found some space to work with
+{4}[h_lFP] 24:55: MrPremiership has found some space to work with
+{4}[a_rHBF] 25:02: Edmund Hunt passes by hand
+{4}[a_rHBF] 25:05: tigland wins the ball in tight
+{4}[h_lHFF] 25:12: Paddles_ dispossesses his opponent
+{4}[a_rHBF] 25:16: tigland has found some space to work with
+{4}[a_rW] 25:19: tigland kicks the ball
+--------------------
+GCR: 11.11.77
+FUR: 8.10.58
+--------------------
+{4}[h_lW] 25:22: Sterge takes a strong mark
+{4}[h_FF] 25:29: Sterge takes a strong mark
+{4}[a_FB] 25:33: Ned_Flanders passes by hand
+{4}[h_FF] 25:40: Ned_Flanders wins the ball in tight
+{4}[a_FB] 25:47: Ned_Flanders dispossesses his opponent
+{4}[a_FB] 25:51: Ned_Flanders has found some space to work with
+{4}[a_C] 25:54: Ned_Flanders kicks the ball
+{4}[a_C] 25:57: Bastyy wins the ball in tight
+{4}[a_C] 26:04: TJASTA has found some space to work with
+{4}[a_C] 26:08: Mister M passes by hand
+{4}[h_C] 26:11: TJASTA wins the ball in tight
+{4}[Contest] 26:18: Disposal is smothered and the ball spills free
+{4}[a_C] 26:22: Blacky wins the ball in tight
+{4}[a_C] 26:25: TJASTA has found some space to work with
+{4}[a_CHF] 26:29: TJASTA has found some space to work with
+{4}[a_CHF] 26:32: GREENESHOOTS has found some space to work with
+{4}[a_FF] 26:39: GREENESHOOTS takes a run and bounce
+{4}[Contest] 26:42: Disposal is smothered and the ball spills free
+{4}[h_FB] 26:49: Tigerturbulance wins the ball in tight
+--------------------
+GCR: 11.11.77
+FUR: 9.10.64
+--------------------
+{4}[a_FF] 26:52: rfctigerarmy wins a free kick and the ball back
+====================
+END OF QUARTER 4
+GCR: 11.11.77
+FUR: 9.10.64
+====================
+{4}[a_C] 26:56: rfctigerarmy wins a free kick and the ball back
+{5}[h_C] 26:59: Marlowe gets the hit out
+{5}[h_C] 0:00: Marlowe gets the hit out

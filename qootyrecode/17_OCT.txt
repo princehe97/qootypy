@@ -1,0 +1,624 @@
+import random
+import pygame
+pygame.init()
+
+ScreenHeight = 400
+ScreenWidth = 640
+
+win = pygame.display.set_mode((ScreenWidth, ScreenHeight))
+
+pygame.display.set_caption("PyQooty")
+
+start_bg = pygame.image.load('start.png')
+game_bg = pygame.image.load('gamescreen.png')
+
+myfont_main = pygame.font.SysFont("Verdana", 20)
+myfont_game = pygame.font.SysFont("Verdana", 28)
+
+clock = pygame.time.Clock()
+
+Bluey_Green = (0, 200, 200)
+Light_Green = (100, 255, 100)
+Green = (0, 255, 0)
+White = (255, 255, 255)
+Red = (255, 0, 0)
+Soft_Red = (255, 150, 150)
+Blue = (0, 0, 255)
+Soft_Blue = (150, 150, 255)
+
+def main_menu():
+	win.blit(start_bg, (0,0))
+	mouse
+	#print(mouse)
+	#coordinates1 = (90, 275, 110, 25)
+	#coordinates2 = (90, 300, 140, 25)
+	#coordinates3 = (90, 325, 110, 25)
+	#coordinates4 = (90, 350, 130, 25)
+
+	if 90 + 110 > mouse[0] > 90 and 275 + 25 > mouse[1] > 275:
+		menu_text1 = myfont_main.render('Play Footy', 1, Light_Green)
+		if click[0] == 1:
+			global main
+			global playing_match
+			main = False
+			playing_match = True
+			pygame.time.delay(200)
+	else:
+		menu_text1 = myfont_main.render('Play Footy', 1, Bluey_Green)
+	if 90 + 140 > mouse[0] > 90 and 300 + 25 > mouse[1] > 300:
+		menu_text2 = myfont_main.render('Setup League', 1, Light_Green)
+	else:
+		menu_text2 = myfont_main.render('Setup League', 1, Bluey_Green)
+	if 90 + 110 > mouse[0] > 90 and 325 + 25 > mouse[1] > 325:
+		menu_text3 = myfont_main.render('Stats Type', 1, Light_Green)
+	else:
+		menu_text3 = myfont_main.render('Stats Type', 1, Bluey_Green)
+	if 90 + 130 > mouse[0] > 90 and 350 + 25 > mouse[1] > 350:
+		menu_text4 = myfont_main.render('View Results', 1, Light_Green)
+	else:	
+		menu_text4 = myfont_main.render('View Results', 1, Bluey_Green)
+
+	win.blit(menu_text1, (90, 275))
+	win.blit(menu_text2, (90, 300))
+	win.blit(menu_text3, (90, 325))
+	win.blit(menu_text4, (90, 350))
+	pygame.display.update()
+
+class sim_game(object):
+	game_minutes = 0
+	game_seconds = 0
+	QTR = 1
+	speed = 0
+	homeTeam = "Home Sample"
+	homeTeamShort = "HOM"
+	home_goals = 0
+	home_behinds = 0
+	home_score = 0
+	awayTeam = "Away Sample"
+	awayTeamShort = "AWY"
+	away_goals = 0
+	away_behinds = 0
+	away_score = 0
+	play_posLine = 0
+	play_posCol = 0
+	transCount = 0
+	
+	possession = "None"
+	transType = "Contest"
+	ActionType = "Rucking"
+	
+	kickIn = None
+	left_throwIn = False
+	right_throwIn = False
+
+	def GamePlayTime():
+		if sim_game.QTR <= 4 and sim_game.game_minutes <= 25:
+			global match_status
+			match_status = "In Progress"
+			sim_game.game_seconds += sim_game.speed
+			pygame.time.delay(100)
+		else:
+			match_status = "Finished"
+		if sim_game.game_seconds >= 60:
+			sim_game.game_minutes += 1
+			sim_game.game_seconds -= 60
+		if sim_game.game_minutes >= 25:
+			sim_game.QTR += 1
+			sim_game.game_minutes = 0
+			sim_game.game_seconds = 0
+			sim_game.play_posLine = 0
+			sim_game.play_posCol = 0
+			sim_game.transCount = 0
+	
+	def PlayBook(play_type, movement, Max_lateralDist):
+		if sim_game.possession == "Home":
+			sim_game.play_posLine += movement
+			Dir_lateral = random.randint(-1,1)
+			sim_game.play_posCol += Dir_lateral * random.randint(0, Max_lateralDist)
+		elif sim_game.possession == "Away":
+			sim_game.play_posLine -= movement
+			Dir_lateral = random.randint(-1,1)
+			sim_game.play_posCol += Dir_lateral * random.randint(0, Max_lateralDist)
+		global access_playType
+		access_playType = play_type
+	
+	def Generate_Play_contest():
+		sim_game.speed = 5
+		global possession
+		if not sim_game.kickIn:
+			if sim_game.possession == "None":
+				if sim_game.ActionType == "Rucking":
+					possessionRoll = random.randint(0,1)
+					if possessionRoll == 0:
+						sim_game.possession = "Home"
+					elif possessionRoll == 1:
+						sim_game.possession = "Away"
+					sim_game.ActionType = "Roving"
+					sim_game.transType = "Contest"
+				else:
+					possessionRoll = random.randint(0,1)
+					if possessionRoll == 0:
+						sim_game.possession = "Home"
+					elif possessionRoll == 1:
+						sim_game.possession = "Away"
+					sim_game.ActionType = "BallGet"
+					sim_game.transType = "Defending"
+
+			else:
+				if sim_game.ActionType == "Roving":
+					possessionRoll = random.randint(1,3)
+					if sim_game.possession == "Home" and possessionRoll == 1:
+						sim_game.possession = "Away"
+					elif sim_game.possession == "Away" and possessionRoll == 1:
+						sim_game.possession = "Home"
+					sim_game.ActionType = "BallGet"
+					sim_game.transType = "Defending"
+				elif sim_game.ActionType == "Kick":
+					possessionRoll = random.randint(0,1)
+					if possessionRoll == 0:
+						sim_game.possession = "Home"
+					elif possessionRoll == 1:
+						sim_game.possession = "Away"
+					aerialRoll = random.randint(1,10)
+					if aerialRoll >= 8:
+						sim_game.ActionType = "Mark"
+						sim_game.transType = "Carrying"
+					else:
+						sim_game.ActionType = "BallGet"
+						sim_game.transType = "Defending"
+				else:
+					possessionRoll = random.randint(0,1)
+					if possessionRoll == 0:
+						sim_game.possession = "Home"
+					elif possessionRoll == 1:
+						sim_game.possession = "Away"
+					sim_game.ActionType = "BallGet"
+					sim_game.transType = "Defending"
+					
+		else:
+			sim_game.transType = "Carrying"
+			sim_game.ActionType = "Kicking In"
+			sim_game.kickIn = False
+	
+	def Generate_Play_defender():
+		sim_game.speed = 3
+		if sim_game.possession == "Home":
+			turnoverRoll = random.randint(1,10)
+			if turnoverRoll <= 2:
+				sim_game.possession = "None"
+				sim_game.ActionType = "Spills Free"
+				sim_game.transType = "Contest"
+			elif 2 < turnoverRoll <= 5:
+				sim_game.possession = "Away"
+				loseballRoll = random.randint(1,10)
+				if loseballRoll <= 4:
+					sim_game.ActionType = "Tackle"
+					sim_game.transType = "Defending"
+				elif 4 < loseballRoll <= 8:
+					sim_game.ActionType = "Dispossession"
+					sim_game.transType = "Defending"
+				else:
+					sim_game.ActionType = "Free Kick"
+					sim_game.transType = "Carrying"
+					
+			else:
+				sim_game.possession = "Home"
+				sim_game.ActionType = "Finds Space"
+				sim_game.transType = "Carrying"
+		
+		elif sim_game.possession == "Away":
+			turnoverRoll = random.randint(1,10)
+			if turnoverRoll <= 2:
+				sim_game.possession = "None"
+				sim_game.ActionType = "Spills Free"
+				sim_game.transType = "Contest"
+			elif 2 < turnoverRoll <= 5:
+				sim_game.possession = "Home"
+				loseballRoll = random.randint(1,10)
+				if loseballRoll <= 4:
+					sim_game.ActionType = "Tackle"
+					sim_game.transType = "Defending"
+				elif 4 < loseballRoll <= 8:
+					sim_game.ActionType = "Dispossession"
+					sim_game.transType = "Defending"
+				else:
+					sim_game.ActionType = "Free Kick"
+					sim_game.transType = "Carrying"
+			else:
+				sim_game.possession = "Away"
+				sim_game.ActionType = "Finds Space"
+				sim_game.transType = "Carrying"
+		else:
+			sim_game.transType = "Contest"
+
+	def Generate_Play_ballCarrier():
+		sim_game.speed = 8
+
+		isSideways = random.randint(0,1)
+		movementRoll = random.randint(1,100)
+		
+		if sim_game.play_posLine == 2 and sim_game.possession == "Home":
+			if movementRoll > 70:
+				sim_game.PlayBook("Short Kick", 1, 0)
+				sim_game.ActionType = "Kick"
+			elif 40 < movementRoll <= 70:
+				sim_game.PlayBook("Short Kick", 0, 1)
+				sim_game.ActionType = "Kick"
+			elif 20 < movementRoll <= 40:
+				sim_game.PlayBook("Handball", 0, 1)
+				sim_game.ActionType = "Handball"
+			elif 10 < movementRoll <= 20:
+				sim_game.PlayBook("Long Kick", 2, 2)
+				sim_game.ActionType = "Kick"
+			else:
+				sim_game.PlayBook("TORP", 3, 2)
+				sim_game.ActionType = "Kick"
+				
+		elif sim_game.play_posLine == -2 and sim_game.possession == "Away":
+			if movementRoll > 70:
+				sim_game.PlayBook("Short Kick", 1, 0)
+				sim_game.ActionType = "Kick"
+			elif 40 < movementRoll <= 70:
+				sim_game.PlayBook("Short Kick", 0, 1)
+				sim_game.ActionType = "Kick"
+			elif 20 < movementRoll <= 40:
+				sim_game.PlayBook("Handball", 0, 1)
+				sim_game.ActionType = "Handball"
+			elif 10 < movementRoll <= 20:
+				sim_game.PlayBook("Long Kick", 2, 2)
+				sim_game.ActionType = "Kick"
+			else:
+				sim_game.PlayBook("TORP", 3, 2)
+				sim_game.ActionType = "Kick"
+		
+		else:
+			if movementRoll > 70:
+				if isSideways == 0:
+					sim_game.PlayBook("Short Kick", 1, 0)
+					sim_game.ActionType = "Kick"
+				elif isSideways == 1:
+					sim_game.PlayBook("Short Kick", 0, 1)
+					sim_game.ActionType = "Kick"
+			elif 40 < movementRoll <= 70:
+				if isSideways == 0:
+					sim_game.PlayBook("Handball", 1, 0)
+					sim_game.ActionType = "Handball"
+				elif isSideways == 1:
+					sim_game.PlayBook("Handball", 0, 1)
+					sim_game.ActionType = "Handball"
+			elif 20 < movementRoll <= 40:
+				sim_game.PlayBook("Run And Bounce", 1, 0)
+				sim_game.ActionType = "Run"
+			elif 5 < movementRoll <= 20:
+				sim_game.PlayBook("Long Kick", 2, 2)
+				sim_game.ActionType = "Kick"
+			else:
+				sim_game.PlayBook("TORP", 3, 2)
+				sim_game.ActionType = "Kick"
+		
+		sim_game.transType = "Contest"
+	
+	def GamePlayBallPos():	
+		play_restart = None
+		
+		if sim_game.play_posCol < -1:
+			sim_game.left_throwIn = True
+			sim_game.play_posCol = -1
+			#print("Left Boundary Throw In")
+			sim_game.ActionType = "Rucking"
+			sim_game.transType = "Contest"
+		elif sim_game.play_posCol > 1:
+			sim_game.right_throwIn = True
+			sim_game.play_posCol = 1
+			#print("Right Boundary Throw In")
+			sim_game.ActionType = "Rucking"
+			sim_game.transType = "Contest"
+		else:
+			sim_game.left_throwIn = False
+			sim_game.right_throwIn = False
+		
+		if sim_game.play_posLine >= 3:
+			if sim_game.left_throwIn:
+				sim_game.play_posCol = -1
+				sim_game.possession = "Away"
+				#print("Out on Full")
+
+			elif sim_game.right_throwIn:
+				sim_game.play_posCol = 1
+				sim_game.possession = "Away"
+				#print("Out on Full")
+
+			else:
+				shotRollHome = random.randint(0,1)
+				if shotRollHome == 0:
+					sim_game.home_behinds += 1
+					sim_game.play_posLine = 2
+					sim_game.kickIn = True
+					sim_game.possession = "Away"
+
+				elif shotRollHome == 1:
+					sim_game.home_goals += 1
+					play_restart = True
+
+		if sim_game.play_posLine <= -3:
+			if sim_game.left_throwIn:
+				sim_game.play_posCol = -1
+				sim_game.possession = "Home"
+				#print("Out on Full")
+
+			elif sim_game.right_throwIn:
+				sim_game.play_posCol = 1
+				sim_game.possession = "Home"
+				#print("Out on Full")
+
+			else:
+				shotRollAway = random.randint(0,1)
+				if shotRollAway == 0:
+					sim_game.away_behinds += 1
+					sim_game.play_posLine = -2
+					sim_game.kickIn = True
+					sim_game.possession = "Home"
+
+				elif shotRollAway == 1:
+					sim_game.away_goals += 1
+					play_restart = True
+		
+		sim_game.transCount += 1
+		
+		if play_restart:
+			sim_game.play_posLine = 0
+			sim_game.play_posCol = 0
+			sim_game.transCount = 0
+			sim_game.ActionType = "Rucking"
+			sim_game.transType = "Contest"
+
+		sim_game.home_score = sim_game.home_goals * 6 + sim_game.home_behinds
+		sim_game.away_score = sim_game.away_goals * 6 + sim_game.away_behinds
+		
+		#print(sim_game.transCount)
+	
+	def map_play():
+		global Pos_Coordinates
+		Pos_Coordinates = (sim_game.play_posCol, sim_game.play_posLine)
+		#print(Pos_Coordinates)
+
+		if Pos_Coordinates == (-1,2) and sim_game.possession == "Away":
+			away_rBP_display = pygame.draw.rect(win, Soft_Red, (400, 55, 40, 15), 0)
+		else:
+			away_rBP_display = pygame.draw.rect(win, Red, (400, 55, 40, 15), 0)
+		if Pos_Coordinates == (0, 2) and sim_game.possession == "Away":
+			away_FB_display = pygame.draw.rect(win, Soft_Red, (470, 55, 40, 15), 0)
+		else:
+			away_FB_display = pygame.draw.rect(win, Red, (470, 55, 40, 15), 0)
+		if Pos_Coordinates == (1, 2) and sim_game.possession == "Away":
+			away_lBP_display = pygame.draw.rect(win, Soft_Red, (540, 55, 40, 15), 0)
+		else:
+			away_lBP_display = pygame.draw.rect(win, Red, (540, 55, 40, 15), 0)
+		if Pos_Coordinates == (-1, 2) and sim_game.possession == "Home":
+			home_lFP_display = pygame.draw.rect(win, Soft_Blue, (400, 70, 40, 15), 0)
+		else:
+			home_lFP_display = pygame.draw.rect(win, Blue, (400, 70, 40, 15), 0)
+		if Pos_Coordinates == (0, 2) and sim_game.possession == "Home":
+			home_FF_display = pygame.draw.rect(win, Soft_Blue, (470, 70, 40, 15), 0)
+		else:
+			home_FF_display = pygame.draw.rect(win, Blue, (470, 70, 40, 15), 0)
+		if Pos_Coordinates == (1, 2) and sim_game.possession == "Home":
+			home_rFP_display = pygame.draw.rect(win, Soft_Blue, (540, 70, 40, 15), 0)
+		else:
+			home_rFP_display = pygame.draw.rect(win, Blue, (540, 70, 40, 15), 0)
+
+		if Pos_Coordinates == (-1, 1) and sim_game.possession == "Away":
+			away_rHBF_display = pygame.draw.rect(win, Soft_Red, (400, 100, 40, 15), 0)
+		else:
+			away_rHBF_display = pygame.draw.rect(win, Red, (400, 100, 40, 15), 0)
+		if Pos_Coordinates == (0, 1) and sim_game.possession == "Away":
+			away_CHB_display = pygame.draw.rect(win, Soft_Red, (470, 100, 40, 15), 0)
+		else:
+			away_CHB_display = pygame.draw.rect(win, Red, (470, 100, 40, 15), 0)
+		if Pos_Coordinates == (1, 1) and sim_game.possession == "Away":
+			away_lHBF_display = pygame.draw.rect(win, Soft_Red, (540, 100, 40, 15), 0)
+		else:
+			away_lHBF_display = pygame.draw.rect(win, Red, (540, 100, 40, 15), 0)
+		if Pos_Coordinates == (-1, 1) and sim_game.possession == "Home":
+			home_lHFF_display = pygame.draw.rect(win, Soft_Blue, (400, 115, 40, 15), 0)
+		else:
+			home_lHFF_display = pygame.draw.rect(win, Blue, (400, 115, 40, 15), 0)
+		if Pos_Coordinates == (0, 1) and sim_game.possession == "Home":
+			home_CHF_display = pygame.draw.rect(win, Soft_Blue, (470, 115, 40, 15), 0)
+		else:
+			home_CHF_display = pygame.draw.rect(win, Blue, (470, 115, 40, 15), 0)
+		if Pos_Coordinates == (1, 1) and sim_game.possession == "Home":
+			home_rHFF_display = pygame.draw.rect(win, Soft_Blue, (540, 115, 40, 15), 0)
+		else:
+			home_rHFF_display = pygame.draw.rect(win, Blue, (540, 115, 40, 15), 0)
+
+		if Pos_Coordinates == (-1, 0) and sim_game.possession == "Away":
+			away_rW_display = pygame.draw.rect(win, Soft_Red, (400, 170, 40, 15), 0)
+		else:
+			away_rW_display = pygame.draw.rect(win, Red, (400, 170, 40, 15), 0)
+		if Pos_Coordinates == (0, 0) and sim_game.possession == "Away":
+			away_C_display = pygame.draw.rect(win, Soft_Red, (470, 170, 40, 15), 0)
+		else:
+			away_C_display = pygame.draw.rect(win, Red, (470, 170, 40, 15), 0)
+		if Pos_Coordinates == (1, 0) and sim_game.possession == "Away":
+			away_lW_display = pygame.draw.rect(win, Soft_Red, (540, 170, 40, 15), 0)
+		else:
+			away_lW_display = pygame.draw.rect(win, Red, (540, 170, 40, 15), 0)
+		if Pos_Coordinates == (-1, 0) and sim_game.possession == "Home":
+			home_lW_display = pygame.draw.rect(win, Soft_Blue, (400, 185, 40, 15), 0)
+		else:
+			home_lW_display = pygame.draw.rect(win, Blue, (400, 185, 40, 15), 0)
+		if Pos_Coordinates == (0, 0) and sim_game.possession == "Home":
+			home_C_display = pygame.draw.rect(win, Soft_Blue, (470, 185, 40, 15), 0)
+		else:
+			home_C_display = pygame.draw.rect(win, Blue, (470, 185, 40, 15), 0)
+		if Pos_Coordinates == (1, 0) and sim_game.possession == "Home":
+			home_rW_display = pygame.draw.rect(win, Soft_Blue, (540, 185, 40, 15), 0)
+		else:
+			home_rW_display = pygame.draw.rect(win, Blue, (540, 185, 40, 15), 0)
+
+		if Pos_Coordinates == (-1, -1) and sim_game.possession == "Away":
+			away_rHFF_display = pygame.draw.rect(win, Soft_Red, (400, 240, 40, 15), 0)
+		else:
+			away_rHFF_display = pygame.draw.rect(win, Red, (400, 240, 40, 15), 0)
+		if Pos_Coordinates == (0, -1) and sim_game.possession == "Away":
+			away_CHF_display = pygame.draw.rect(win, Soft_Red, (470, 240, 40, 15), 0)
+		else:
+			away_CHF_display = pygame.draw.rect(win, Red, (470, 240, 40, 15), 0)
+		if Pos_Coordinates == (1, -1) and sim_game.possession == "Away":
+			away_lHFF_display = pygame.draw.rect(win, Soft_Red, (540, 240, 40, 15), 0)
+		else:
+			away_lHFF_display = pygame.draw.rect(win, Red, (540, 240, 40, 15), 0)
+		if Pos_Coordinates == (-1, -1) and sim_game.possession == "Home":
+			home_lHBF_display = pygame.draw.rect(win, Soft_Blue, (400, 255, 40, 15), 0)
+		else:
+			home_lHBF_display = pygame.draw.rect(win, Blue, (400, 255, 40, 15), 0)
+		if Pos_Coordinates == (0, -1) and sim_game.possession == "Home":
+			home_CHB_display = pygame.draw.rect(win, Soft_Blue, (470, 255, 40, 15), 0)
+		else:
+			home_CHB_display = pygame.draw.rect(win, Blue, (470, 255, 40, 15), 0)
+		if Pos_Coordinates == (1, -1) and sim_game.possession == "Home":
+			home_rHBF_display = pygame.draw.rect(win, Soft_Blue, (540, 255, 40, 15), 0)
+		else:
+			home_rHBF_display = pygame.draw.rect(win, Blue, (540, 255, 40, 15), 0)
+
+		if Pos_Coordinates == (-1, -2) and sim_game.possession == "Away":
+			away_rFP_display = pygame.draw.rect(win, Soft_Red, (400, 285, 40, 15), 0)
+		else:
+			away_rFP_display = pygame.draw.rect(win, Red, (400, 285, 40, 15), 0)
+		if Pos_Coordinates == (0, -2) and sim_game.possession == "Away":
+			away_FF_display = pygame.draw.rect(win, Soft_Red, (470, 285, 40, 15), 0)
+		else:
+			away_FF_display = pygame.draw.rect(win, Red, (470, 285, 40, 15), 0)
+		if Pos_Coordinates == (1, -2) and sim_game.possession == "Away":
+			away_lFP_display = pygame.draw.rect(win, Soft_Red, (540, 285, 40, 15), 0)
+		else:
+			away_lFP_display = pygame.draw.rect(win, Red, (540, 285, 40, 15), 0)
+		if Pos_Coordinates == (-1, -2) and sim_game.possession == "Home":
+			home_lBP_display = pygame.draw.rect(win, Soft_Blue, (400, 300, 40, 15), 0)
+		else:
+			home_lBP_display = pygame.draw.rect(win, Blue, (400, 300, 40, 15), 0)
+		if Pos_Coordinates == (0, -2) and sim_game.possession == "Home":
+			home_FB_display = pygame.draw.rect(win, Soft_Blue, (470, 300, 40, 15), 0)
+		else:
+			home_FB_display = pygame.draw.rect(win, Blue, (470, 300, 40, 15), 0)
+		if Pos_Coordinates == (1, -2) and sim_game.possession == "Home":
+			home_rBP_display = pygame.draw.rect(win, Soft_Blue, (540, 300, 40, 15), 0)
+		else:
+			home_rBP_display = pygame.draw.rect(win, Blue, (540, 300, 40, 15), 0)
+			
+			away_rBP_display
+			away_FB_display
+			away_lBP_display
+			home_lFP_display
+			home_FF_display
+			home_rFP_display
+			away_rHBF_display
+			away_CHB_display
+			away_lHBF_display
+			home_lHFF_display
+			home_CHF_display
+			home_rHFF_display
+			away_rW_display
+			away_C_display
+			away_lW_display
+			home_lW_display
+			home_C_display
+			home_rW_display
+			away_rHFF_display
+			away_CHF_display
+			away_lHFF_display
+			home_lHBF_display
+			home_CHB_display
+			home_rHBF_display
+			away_rFP_display
+			away_FF_display
+			away_lFP_display
+			home_lBP_display
+			home_FB_display
+			home_rBP_display
+	
+	def match_sim_running():
+		sim_running = True
+		while sim_running:
+			win.blit(game_bg, (0,0))
+			QTR_display = myfont_game.render(str(sim_game.QTR), 1, Green)
+			win.blit(QTR_display, (100, 15))
+			if sim_game.game_seconds < 10:
+				displayTime = str(sim_game.game_minutes) + ":0" + str(sim_game.game_seconds)
+				GameTime_display = myfont_game.render(displayTime, 1, Green)
+			else:
+				displayTime = str(sim_game.game_minutes) + ":" + str(sim_game.game_seconds)
+				GameTime_display = myfont_game.render(displayTime, 1, Green)
+			win.blit(GameTime_display, (240, 15))
+			
+			homeTeam_display = myfont_game.render(sim_game.homeTeamShort, 1, White)
+			win.blit(homeTeam_display, (110, 70))
+			
+			homeGoals_display = myfont_game.render(str(sim_game.home_goals), 1, White)
+			homeBehinds_display = myfont_game.render(str(sim_game.home_behinds), 1, White)
+			homeScore_display = myfont_game.render(str(sim_game.home_score), 1, White)
+			win.blit(homeGoals_display, (35, 160))
+			win.blit(homeBehinds_display, (135, 160))
+			win.blit(homeScore_display, (235, 160))
+			
+			awayTeam_display = myfont_game.render(sim_game.awayTeamShort, 1, White)
+			win.blit(awayTeam_display, (110, 220))
+			
+			awayGoals_display = myfont_game.render(str(sim_game.away_goals), 1, White)
+			awayBehinds_display = myfont_game.render(str(sim_game.away_behinds), 1, White)
+			awayScore_display = myfont_game.render(str(sim_game.away_score), 1, White)
+			win.blit(awayGoals_display, (35, 310))
+			win.blit(awayBehinds_display, (135, 310))
+			win.blit(awayScore_display, (235, 310))
+			
+			sim_game.GamePlayTime()
+			if match_status == "In Progress":
+				if sim_game.transType == "Contest":
+					sim_game.Generate_Play_contest()
+					commentary = "Ball up for grabs"
+				elif sim_game.transType == "Defending":
+					sim_game.Generate_Play_defender()
+					commentary = "What can he do with the ball?"
+				elif sim_game.transType == "Carrying":
+					sim_game.Generate_Play_ballCarrier()
+					commentary = access_playType
+				sim_game.GamePlayBallPos()
+			pygame.time.delay(80)
+			sim_game.map_play()
+			comm_display = myfont_game.render(commentary, 1, White)
+			win.blit(comm_display, (30, 360))
+			#print(sim_game.transType)
+			
+			TestGameLine = "{" + str(sim_game.QTR) + "}" + displayTime + ": " + str(sim_game.home_score) + " -- " + str(sim_game.away_score) + " " + "Ball with " + sim_game.possession + " " + str(Pos_Coordinates) + ">" + sim_game.ActionType + '\n'
+			
+			textRecordingTest = open("test.txt", "a")
+			textRecordingTest.write(TestGameLine)
+			
+			
+			pygame.display.update()
+			for event in pygame.event.get():
+				if event.type == pygame.QUIT:
+					pygame.quit()
+
+run = True
+main = True
+playing_match = False
+while run:
+	pygame.event.get()
+	
+	clock.tick(12)
+	
+	mouse = pygame.mouse.get_pos()
+	click = pygame.mouse.get_pressed()
+	
+	if main:
+		main_menu()
+	
+	if playing_match:
+		sim_game.match_sim_running()
+	
+	for event in pygame.event.get():
+		if event.type == pygame.QUIT:
+			run = False
+pygame.quit()
